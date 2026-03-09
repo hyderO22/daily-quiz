@@ -7,153 +7,161 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #f0f4f8;
+      font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+      background: #ffffff;
       min-height: 100vh;
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       justify-content: center;
-      padding: 24px;
-      color: #1a202c;
+      padding: 48px 24px;
+      color: #0a0a0a;
     }
     .card {
-      background: white;
-      border-radius: 16px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.10);
-      max-width: 680px;
+      max-width: 600px;
       width: 100%;
-      padding: 40px 36px;
     }
-    h1 {
-      font-size: 1.1rem;
+    .header {
+      margin-bottom: 32px;
+    }
+    .header-label {
+      font-size: 0.78rem;
       font-weight: 600;
-      color: #718096;
-      letter-spacing: 0.04em;
+      color: #999999;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
-      margin-bottom: 8px;
+      margin-bottom: 4px;
     }
-    .progress {
-      font-size: 0.9rem;
-      color: #a0aec0;
-      margin-bottom: 28px;
+    .header-date {
+      font-size: 0.85rem;
+      color: #bbbbbb;
     }
     .progress-bar {
-      height: 4px;
-      background: #e2e8f0;
-      border-radius: 99px;
-      margin-bottom: 28px;
+      height: 3px;
+      background: #e8e8e8;
+      border-radius: 999px;
+      margin-bottom: 40px;
       overflow: hidden;
     }
     .progress-bar-fill {
       height: 100%;
-      background: #667eea;
-      border-radius: 99px;
+      background: #00c87a;
+      border-radius: 999px;
       transition: width 0.4s ease;
     }
     .question {
-      font-size: 1.25rem;
-      font-weight: 600;
-      line-height: 1.5;
-      margin-bottom: 28px;
+      font-size: 1.5rem;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 32px;
+      color: #0a0a0a;
     }
     .options {
       display: flex;
       flex-direction: column;
-      gap: 12px;
-      margin-bottom: 28px;
+      gap: 10px;
+      margin-bottom: 32px;
     }
     .option-btn {
       text-align: left;
-      padding: 14px 18px;
-      border: 2px solid #e2e8f0;
-      border-radius: 10px;
-      background: white;
-      font-size: 1rem;
+      padding: 16px 22px;
+      border: 1px solid #e8e8e8;
+      border-radius: 999px;
+      background: #ffffff;
+      font-size: 0.95rem;
+      font-family: inherit;
+      color: #0a0a0a;
       cursor: pointer;
-      transition: border-color 0.15s, background 0.15s;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
       line-height: 1.45;
     }
     .option-btn:hover:not(:disabled) {
-      border-color: #667eea;
-      background: #f7f8ff;
+      background: #f5f5f5;
     }
     .option-btn.correct {
-      border-color: #38a169;
-      background: #f0fff4;
-      color: #276749;
+      border-color: #00c87a;
+      background: #e6fff4;
+      color: #007a4a;
     }
     .option-btn.wrong {
-      border-color: #e53e3e;
-      background: #fff5f5;
-      color: #9b2c2c;
+      border-color: #ff4d4d;
+      background: #fff0f0;
+      color: #cc0000;
     }
     .option-btn:disabled { cursor: default; }
     .explanation {
       display: none;
-      background: #ebf8ff;
-      border-left: 4px solid #4299e1;
-      padding: 14px 16px;
-      border-radius: 0 8px 8px 0;
-      font-size: 0.95rem;
-      color: #2b6cb0;
-      margin-bottom: 24px;
-      line-height: 1.5;
+      border-left: 3px solid #e8e8e8;
+      padding: 12px 16px;
+      font-size: 0.875rem;
+      color: #666666;
+      margin-bottom: 28px;
+      line-height: 1.6;
     }
     .explanation.show { display: block; }
     .next-btn {
       display: none;
-      padding: 12px 28px;
-      background: #667eea;
-      color: white;
+      padding: 14px 32px;
+      background: #0a0a0a;
+      color: #ffffff;
       border: none;
-      border-radius: 10px;
-      font-size: 1rem;
+      border-radius: 999px;
+      font-size: 0.95rem;
+      font-family: inherit;
       font-weight: 600;
       cursor: pointer;
-      transition: background 0.15s;
+      transition: opacity 0.15s;
     }
-    .next-btn:hover { background: #5a67d8; }
+    .next-btn:hover { opacity: 0.82; }
     .next-btn.show { display: inline-block; }
-    /* Score screen */
     .score-screen {
       display: none;
       text-align: center;
+      padding-top: 24px;
     }
     .score-screen.show { display: block; }
     .score-big {
       font-size: 5rem;
       font-weight: 700;
-      color: #667eea;
-      margin: 16px 0 8px;
+      color: #0a0a0a;
+      line-height: 1;
+      margin-bottom: 8px;
     }
     .score-label {
-      font-size: 1.1rem;
-      color: #718096;
-      margin-bottom: 32px;
+      font-size: 1rem;
+      color: #999999;
+      margin-bottom: 24px;
     }
     .score-msg {
-      font-size: 1.3rem;
+      font-size: 1.2rem;
       font-weight: 600;
-      margin-bottom: 32px;
+      color: #0a0a0a;
+      margin-bottom: 40px;
     }
     .restart-btn {
-      padding: 12px 28px;
-      background: #667eea;
-      color: white;
-      border: none;
-      border-radius: 10px;
-      font-size: 1rem;
+      padding: 14px 32px;
+      background: #ffffff;
+      color: #0a0a0a;
+      border: 1px solid #0a0a0a;
+      border-radius: 999px;
+      font-size: 0.95rem;
+      font-family: inherit;
       font-weight: 600;
       cursor: pointer;
+      transition: background 0.15s, color 0.15s;
     }
-    .restart-btn:hover { background: #5a67d8; }
+    .restart-btn:hover {
+      background: #0a0a0a;
+      color: #ffffff;
+    }
     .quiz-body { display: block; }
   </style>
 </head>
 <body>
 <div class="card">
-  <h1>Daily Quiz</h1>
-  <div class="progress" id="progress-text">Question 1 of 5</div>
+  <div class="header">
+    <div class="header-label">Daily Quiz</div>
+    <div class="header-date">March 09, 2026</div>
+  </div>
   <div class="progress-bar"><div class="progress-bar-fill" id="progress-fill" style="width:20%"></div></div>
 
   <div class="quiz-body" id="quiz-body">
@@ -164,7 +172,6 @@
   </div>
 
   <div class="score-screen" id="score-screen">
-    <div style="font-size:3rem;">🎉</div>
     <div class="score-big" id="score-value"></div>
     <div class="score-label">out of 5</div>
     <div class="score-msg" id="score-msg"></div>
@@ -173,7 +180,7 @@
 </div>
 
 <script>
-const QUESTIONS = [{"question": "What keyboard shortcut is used to switch between modes (such as plan mode) in Claude Code?", "options": ["Cmd+B", "Esc pressed twice", "Up arrow", "Shift+Tab"], "answer": 3, "explanation": "Shift+Tab is the shortcut used to toggle between different modes, including plan mode, in Claude Code."}, {"question": "According to the AI PM notes, what is the recommended approach when Marketing or Sales come to you with a solution?", "options": ["Accept the solution and add it to the roadmap immediately", "Reverse engineer their suggestion to identify the underlying problem it solves", "Outsource the thinking to an AI tool to evaluate the solution", "Focus on the technical feasibility of implementing the solution"], "answer": 1, "explanation": "The notes emphasize asking 'why do you think that's helpful / what problem will it solve' — the goal is to reverse engineer the suggested solution back to the underlying problem, which can then be validated and added to the opportunity tree."}, {"question": "In the context of Continuous Discovery, what is the key distinction between 'discovery' and 'delivery'?", "options": ["Discovery is done by engineers, delivery is done by designers", "Discovery is deciding what to build, delivery is building and shipping it", "Discovery focuses on metrics, delivery focuses on customer feedback", "Discovery happens after launch, delivery happens before"], "answer": 1, "explanation": "The notes define discovery as 'the work you do to decide what to build' and delivery as 'the work you do to build and ship products,' noting that most companies underinvest in discovery."}, {"question": "According to the AI PM notes, what should a Product Manager focus on most, especially early in the solution space?", "options": ["Feasibility and usability", "Feasability and viability", "Value and viability", "Usability and feasibility"], "answer": 2, "explanation": "The notes explicitly state that as a PM, especially early on, you should focus on whether a solution is 'valuable and viable' — and not on whether it is technically feasible."}, {"question": "In Python, what does the type() function do?", "options": ["It deletes a variable from memory", "It converts a variable to a string", "It returns the data type of a variable, such as string, integer, or float", "It creates a new variable with a specified type"], "answer": 2, "explanation": "The notes explain that type(name) 'gives you the name of your variable,' meaning it returns the data type — for example, whether the variable is a string, integer, or float."}];
+const QUESTIONS = [{"question": "What keyboard shortcut is used to switch between modes (such as plan mode) in Claude Code?", "options": ["Cmd+B", "Up Arrow", "Shift+Tab", "Esc pressed twice"], "answer": 2, "explanation": "Shift+Tab is used to switch between modes in Claude Code, including toggling plan mode."}, {"question": "According to the notes on AI Product Management, what should a PM do when Marketing or Sales comes to them with a solution?", "options": ["Immediately add it to the product roadmap", "Reverse engineer the suggested solution back to the underlying problem by asking why it would be helpful", "Evaluate whether it is technically feasible before anything else", "Outsource the thinking to an AI tool to generate a PRD"], "answer": 1, "explanation": "The notes emphasize asking 'why do you think that's helpful / what problem will it solve' to reverse engineer solutions back to real problems, which is what gets added to the opportunity tree."}, {"question": "In Python (as covered in the notes), what does the type() function do?", "options": ["Deletes a cell in Jupyter Lab", "Runs a command in the terminal", "Returns the data type of a variable, such as string, integer, or float", "Creates a new variable in memory"], "answer": 2, "explanation": "The type() function returns the type of a variable — for example, whether it is a string, integer, or float (decimal)."}, {"question": "According to the Continuous Discovery notes, what is the core distinction between 'discovery' and 'delivery'?", "options": ["Discovery is done by engineers; delivery is done by designers", "Discovery is the work you do to decide what to build; delivery is the work you do to build and ship products", "Discovery focuses on business outcomes; delivery focuses on customer outcomes", "Discovery happens after launch; delivery happens before launch"], "answer": 1, "explanation": "The notes clearly define discovery as the work done to decide what to build, and delivery as the work done to actually build and ship those products. Most companies underinvest in discovery."}, {"question": "When evaluating solutions in the execution/solution space, what should a PM — especially early on — primarily focus on?", "options": ["Feasibility and usability", "Usability and feasibility", "Valuable and viable", "Feasible and usable"], "answer": 2, "explanation": "The notes explicitly state that as a PM, especially early on, you should focus on whether a solution is valuable and viable, and not get distracted by whether it is technically feasible."}];
 
 let current = 0;
 let score = 0;
@@ -188,8 +195,6 @@ function startQuiz() {
 
 function showQuestion() {
   const q = QUESTIONS[current];
-  document.getElementById("progress-text").textContent =
-    `Question ${current + 1} of ${QUESTIONS.length}`;
   document.getElementById("progress-fill").style.width =
     `${((current + 1) / QUESTIONS.length) * 100}%`;
   document.getElementById("question-text").textContent = q.question;
