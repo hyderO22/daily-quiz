@@ -1,0 +1,1739 @@
+<div><h2>Apple in China (part I)</h2></div>
+<div><br></div>
+<ul>
+<li>Xi Jinping became president of China in 2013 </li>
+<li>Apple originally did manufacturing in California, Ireland, Singapore in 1997 but after resorted to offshoring; branching out to Mexico and Taiwan before cementing in China</li>
+<li>In 2008, Apple China sales volume was under one billion. By 2012, it was 20 billion </li>
+<li>Foxconn is a Taiwanese company first established in the 1960s</li>
+<li>Idea of Apple losing on innovation is undercut but its huge profits and expansion into services</li>
+<li>Foxconn revenue is more than Meta and Nvidia combined </li>
+</ul>
+<div>90% of manufacturing is in China and almost all in Taiwan </div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Apple founded in 1976<br></li>
+<li>Last holdout to manufacturing their own products (most now relying on outsourcing)</li>
+<li>Apple was considering chapter 11 bankruptcy, with strategy of flooding the market with cheaper Mac’s to compete against PC not working </li>
+<li>Apple 2 was a big seller, released in 1977<br></li>
+<li>Dominance of windows - powered by improved software, more reliant third parties etc. meant Windows dominated </li>
+</ul>
+<div><br></div>
+<ul>
+<li>IBM</li>
+<li>Giant in making mainframes - but for entry into personal computing, it outsourced nearly everything including its OS (to Microsoft)<br></li>
+<li>Jobs was cocky but IBM started to dominate </li>
+<li>Microsoft was allowed to license out its OS to others</li>
+<li>Jobs miscalculated because: IBM/Microsoft was more open source and enabled competition/more competition - versus just being “better experience”</li>
+<li>Wozniaks push for open source and enabling third party developers was key to Apple 2’s success - but Jobs didn’t like third parties</li>
+<li>Apple relied on manual process for circuit board assembly (undocumented workers manually stuffing) while IBM leveraged a factory to improve circuit board assembly  </li>
+<li>Outsourcing was increased with SCI - and idea of vertically integrated manufacturing was dying <br></li>
+<li>Mac also had very flawed just in time manufacturing pausing things for weeks based on product delays</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Mac killer app was LaserWriter - designed by Apple but partnered with canon for laser printer (why Apple was associated with designers and publishing)<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Apple’s relationship with outsourcing really started with Japan (Canon and Sony)</li>
+<li>Japan lost its edge - rising cost and trouble collaborating - this opened up the door to Taiwan (former Japanese colony for 60 years before ww2)</li>
+<li>Newton - despite being a failure - was pivotal for Apple opening up Taiwan and hiring Ive<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li>Steve’s return </li>
+<li>Amelio - CEO after Scully etc. - focused in improvements in standardization vs what was needed: differentiation</li>
+<li>Jobs purchased graphics group from Lucas and called it Pixar. It was failing but line Next he ditched the hardware elements to focus on the sophisticated software</li>
+<li>Next and its OS/webobjects software was bought by desperate Apple<br></li>
+<li>“Apple runs fast on the projects that don’t matter.”</li>
+<li>Seeing lack of focus as the issue: cut products from 40 to 4</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Interesting fact</li>
+<li>Patent for plastic injection moulding started following a shortage of ivory following rise of popularity of billiards - so prize offered to make ivory alternative (1872)<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Massive stalls in the iMac led to furious outburst by Jobs</li>
+<li>Coordinated with Acron as consultant to improve problems and identify gaps</li>
+<li>Previously team lacked structure but this changed (Lundergon, from MIT, became like General Patton of the team)</li>
+<li>Ive learned diplomacy</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>LG manufacture iMacs - new iMac became Apple’s fastest if selling product and became America’s best selling computer </li>
+<li>LG struggled with scaling and over used its leverage - opening door for Foxconn </li>
+<li>iBook, first laptop with built in wifi. Jobs used a Hula Hoop to prove it wasn’t connected by wires </li>
+<li>Taiwan used for Newton production - now moved into to other portables </li>
+<li>Titanium Powrbook was so hard to produce 18 of 20 people on the project quit </li>
+<li>Like how Japan set up shop in Korea and Taiwan - Taiwan did the same for mainland China to keep up with demand </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Old manufacturing style “poka-yoke” a Japanese term meaning mistake proofing - to make things more scalable</li>
+<li>But Apple saw China as an opportunity to manufacture interactively and in a automation non friendly way to meet their unique and high standards/demands </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Foxconn</li>
+<li>Founded by Terry Gou</li>
+<li>Foxconn - fox is an animal he liked
+
+---
+
+<div><h1>How to win friends and influence people (in progress)</h1></div>
+<div><br></div>
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/heic;base64,AAAANGZ0eXBoZWljAAAAAG1pZjFNaUhCTWlIQWhlaXhNaUhFTWlQcm1pYWZoZWljdG1hcAAAiHltZXRhAAAAAAAAACFoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAA5waXRtAAAAAAAxAAAIsGlpbmYAAAAAAGUAAAAVaW5mZQIAAAEAAQAAaHZjMQAAAAAVaW5mZQIAAAEAAgAAaHZjMQAAAAAVaW5mZQIAAAEAAwAAaHZjMQAAAAAVaW5mZQIAAAEABAAAaHZjMQAAAAAVaW5mZQIAAAEABQAAaHZjMQAAAAAVaW5mZQIAAAEABgAAaHZjMQAAAAAVaW5mZQIAAAEABwAAaHZjMQAAAAAVaW5mZQIAAAEACAAAaHZjMQAAAAAVaW5mZQIAAAEACQAAaHZjMQAAAAAVaW5mZQIAAAEACgAAaHZjMQAAAAAVaW5mZQIAAAEACwAAaHZjMQAAAAAVaW5mZQIAAAEADAAAaHZjMQAAAAAVaW5mZQIAAAEADQAAaHZjMQAAAAAVaW5mZQIAAAEADgAAaHZjMQAAAAAVaW5mZQIAAAEADwAAaHZjMQAAAAAVaW5mZQIAAAEAEAAAaHZjMQAAAAAVaW5mZQIAAAEAEQAAaHZjMQAAAAAVaW5mZQIAAAEAEgAAaHZjMQAAAAAVaW5mZQIAAAEAEwAAaHZjMQAAAAAVaW5mZQIAAAEAFAAAaHZjMQAAAAAVaW5mZQIAAAEAFQAAaHZjMQAAAAAVaW5mZQIAAAEAFgAAaHZjMQAAAAAVaW5mZQIAAAEAFwAAaHZjMQAAAAAVaW5mZQIAAAEAGAAAaHZjMQAAAAAVaW5mZQIAAAEAGQAAaHZjMQAAAAAVaW5mZQIAAAEAGgAAaHZjMQAAAAAVaW5mZQIAAAEAGwAAaHZjMQAAAAAVaW5mZQIAAAEAHAAAaHZjMQAAAAAVaW5mZQIAAAEAHQAAaHZjMQAAAAAVaW5mZQIAAAEAHgAAaHZjMQAAAAAVaW5mZQIAAAEAHwAAaHZjMQAAAAAVaW5mZQIAAAEAIAAAaHZjMQAAAAAVaW5mZQIAAAEAIQAAaHZjMQAAAAAVaW5mZQIAAAEAIgAAaHZjMQAAAAAVaW5mZQIAAAEAIwAAaHZjMQAAAAAVaW5mZQIAAAEAJAAAaHZjMQAAAAAVaW5mZQIAAAEAJQAAaHZjMQAAAAAVaW5mZQIAAAEAJgAAaHZjMQAAAAAVaW5mZQIAAAEAJwAAaHZjMQAAAAAVaW5mZQIAAAEAKAAAaHZjMQAAAAAVaW5mZQIAAAEAKQAAaHZjMQAAAAAVaW5mZQIAAAEAKgAAaHZjMQAAAAAVaW5mZQIAAAEAKwAAaHZjMQAAAAAVaW5mZQIAAAEALAAAaHZjMQAAAAAVaW5mZQIAAAEALQAAaHZjMQAAAAAVaW5mZQIAAAEALgAAaHZjMQAAAAAVaW5mZQIAAAEALwAAaHZjMQAAAAAVaW5mZQIAAAEAMAAAaHZjMQAAAAAVaW5mZQIAAAAAMQAAZ3JpZAAAAAAVaW5mZQIAAAEAMgAAaHZjMQAAAAApaW5mZQIAAAEAMwAAbWltZQBhcHBsaWNhdGlvbi9yZGYreG1sAAAAABVpbmZlAgAAAAA0AABodmMxAAAAABVpbmZlAgAAAQA1AABodmMxAAAAABVpbmZlAgAAAQA2AABodmMxAAAAABVpbmZlAgAAAQA3AABodmMxAAAAABVpbmZlAgAAAQA4AABodmMxAAAAABVpbmZlAgAAAQA5AABodmMxAAAAABVpbmZlAgAAAQA6AABodmMxAAAAABVpbmZlAgAAAQA7AABodmMxAAAAABVpbmZlAgAAAQA8AABodmMxAAAAABVpbmZlAgAAAQA9AABodmMxAAAAABVpbmZlAgAAAQA+AABodmMxAAAAABVpbmZlAgAAAQA/AABodmMxAAAAABVpbmZlAgAAAQBAAABodmMxAAAAABVpbmZlAgAAAQBBAABodmMxAAAAABVpbmZlAgAAAQBCAABodmMxAAAAABVpbmZlAgAAAQBDAABodmMxAAAAABVpbmZlAgAAAQBEAABodmMxAAAAABVpbmZlAgAAAQBFAABodmMxAAAAABVpbmZlAgAAAQBGAABodmMxAAAAABVpbmZlAgAAAQBHAABodmMxAAAAABVpbmZlAgAAAQBIAABodmMxAAAAABVpbmZlAgAAAQBJAABodmMxAAAAABVpbmZlAgAAAQBKAABodmMxAAAAABVpbmZlAgAAAQBLAABodmMxAAAAABVpbmZlAgAAAQBMAABodmMxAAAAABVpbmZlAgAAAQBNAABodmMxAAAAABVpbmZlAgAAAQBOAABodmMxAAAAABVpbmZlAgAAAQBPAABodmMxAAAAABVpbmZlAgAAAQBQAABodmMxAAAAABVpbmZlAgAAAQBRAABodmMxAAAAABVpbmZlAgAAAQBSAABodmMxAAAAABVpbmZlAgAAAQBTAABncmlkAAAAABVpbmZlAgAAAQBUAABodmMxAAAAABVpbmZlAgAAAQBVAABodmMxAAAAABVpbmZlAgAAAQBWAABodmMxAAAAABVpbmZlAgAAAQBXAABodmMxAAAAABVpbmZlAgAAAQBYAABodmMxAAAAABVpbmZlAgAAAQBZAABodmMxAAAAABVpbmZlAgAAAQBaAABodmMxAAAAABVpbmZlAgAAAQBbAABodmMxAAAAABVpbmZlAgAAAQBcAABodmMxAAAAABVpbmZlAgAAAQBdAABodmMxAAAAABVpbmZlAgAAAQBeAABodmMxAAAAABVpbmZlAgAAAQBfAABodmMxAAAAABVpbmZlAgAAAQBgAABncmlkAAAAABVpbmZlAgAAAQBhAABodmMxAAAAAClpbmZlAgAAAQBiAABtaW1lAGFwcGxpY2F0aW9uL3JkZit4bWwAAAAAFWluZmUCAAAAAGQAAHRtYXAAAAAARmluZmUCAAABAGUAAHVyaSBtZXRhZGF0YQB0YWc6YXBwbGUuY29tLDIwMjM6cGhvdG86bWV0YWRhdGE6c3R5bGVzAAAAABVpbmZlAgAAAQBmAABFeGlmAAAAAXxpcmVmAAAAAAAAAGxkaW1nADEAMAABAAIAAwAEAAUABgAHAAgACQAKAAsADAANAA4ADwAQABEAEgATABQAFQAWABcAGAAZABoAGwAcAB0AHgAfACAAIQAiACMAJAAlACYAJwAoACkAKgArACwALQAuAC8AMAAAABBhdXhsADIAAgAxAGQAAAAOY2RzYwAzAAEAMgAAAA50aG1iADQAAQAxAAAASGRpbWcAUwAeADUANgA3ADgAOQA6ADsAPAA9AD4APwBAAEEAQgBDAEQARQBGAEcASABJAEoASwBMAE0ATgBPAFAAUQBSAAAAEGF1eGwAUwACADEAZAAAACRkaW1nAGAADABUAFUAVgBXAFgAWQBaAFsAXABdAF4AXwAAAA5hdXhsAGAAAQAxAAAAEGF1eGwAYQACADEAZAAAAA5jZHNjAGIAAQBgAAAAEGRpbWcAZAACADEAYAAAABBjZHNjAGUAAgAxAGQAAAAQY2RzYwBmAAIAMQBkAAB3DGlwcnAAAHSuaXBjbwAAAiRjb2xycHJvZgAAAhhhcHBsBAAAAG1udHJSR0IgWFlaIAfmAAEAAQAAAAAAAGFjc3BBUFBMAAAAAEFQUEwAAAAAAAAAAAAAAAAAAAAAAAD21gABAAAAANMtYXBwbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACmRlc2MAAAD8AAAAMGNwcnQAAAEsAAAAUHd0cHQAAAF8AAAAFHJYWVoAAAGQAAAAFGdYWVoAAAGkAAAAFGJYWVoAAAG4AAAAFHJUUkMAAAHMAAAAIGNoYWQAAAHsAAAALGJUUkMAAAHMAAAAIGdUUkMAAAHMAAAAIG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAFAAAABwARABpAHMAcABsAGEAeQAgAFAAM21sdWMAAAAAAAAAAQAAAAxlblVTAAAANAAAABwAQwBvAHAAeQByAGkAZwBoAHQAIABBAHAAcABsAGUAIABJAG4AYwAuACwAIAAyADAAMgAyWFlaIAAAAAAAAPbVAAEAAAAA0yxYWVogAAAAAAAAg98AAD2/////u1hZWiAAAAAAAABKvwAAsTcAAAq5WFlaIAAAAAAAACg4AAARCwAAyLlwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW3NmMzIAAAAAAAEMQgAABd7///MmAAAHkwAA/ZD///ui///9owAAA9wAAMBuAAAAFGlzcGUAAAAAAAACAAAAAgAAAAAUaXNwZQAAAAAAAA/AAAAL0AAAAAlpcm90AwAAABBwaXhpAAAAAAMICAgAAAAUaXNwZQAAAAAAAAfgAAAF6AAAAA5waXhpAAAAAAEIAAAAOmF1eEMAAAAAdXJuOmNvbTphcHBsZTpwaG90bzoyMDIwOmF1eDpzZW1hbnRpY3NreW1hdHRlAAAAABRpc3BlAAAAAAAAAaAAAAE4AAACPGNvbHJwcm9mAAACMGFwcGwEAAAAbW50clJHQiBYWVogB+MAAQABAAAAAAAAYWNzcEFQUEwAAAAAQVBQTAAAAAAAAAAAAAAAAAAAAAAAAPbWAAEAAAAA0y1hcHBsX7/VQcvuTpXllWLEtDLoDwAAAAAAAAAAAAAAAAAAAAAAA
+
+---
+
+<div><h1>Heroes (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Hera (goddess of matrimony, good order etc.) had a prophetic dream that the giants would fight with the gods on Olympus but that they were saved by Prometheus and a human</li>
+<li>Acrisuis - king of Argos - heard from a Delphi prophecy his grandson would kill him. So he had his daughter caged in a bronze chamber. Zeus was tempted and impregnated her in the form of golden rain which made its way into the chamber </li>
+<li>Child’s name was Perseus (the man who would save gods from the giants)</li>
+<li>The king had his daughter and Perseus locked in a chest and thrown into the sea. Ended up being taken in and adopted by humble fisherman who was related to a greedy king</li>
+<li>Medusa was a woman who was ravished by Poseidon in a sacred temple belonging to Athena and in spite she transformed her into a gorgon </li>
+<li>Hermes and Athena helped Perseus by giving him the sandals, a secret cloak from Hades, and a satchel, a knife made of “adamantine” inspired by the sickle that castrated Kronos. And Aegis was a shield give to Perseus</li>
+<li>The Aegis was shiney / reflective so it could be a mirror to see Medusa’s face </li>
+<li>Pegasus was born out of Medusa’s dying body</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Perseus discovers Andromeda chained up on a rock in the ocean. Cursed because Poseidon was angry that she was called more beautiful than all the sea nymphs etc. Perseus rescued Andromeda from the sea monster Cetus</li>
+<li>Through the son of Perseus and Andromda - Perses - would be the bloodline of the Persian people</li>
+<li>After their death, they became constellations as a gift from Zeus</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Zeus impregnated the wife of Perseus’s son and the wife now had two children - one of Zeus and the other of the real husband </li>
+<li>Zeus wanted this son from Alcmene to rule Argos but was tricked by Hera to have it be another grandchild of Perseus </li>
+<li>Hera would forever hold a grudge against Alcmene’s twins </li>
+<li>Alcides and Iphiciles - the twins, unclear which one was Zeus’s</li>
+<li>Hera sent venomous snakes to kill them but they were killed by Zeus’s heir Alcides </li>
+<li>Hermes took Alcides and sneakily had him breast feed on Hera who removed the baby and her breast milk was dropped into the sky (origin of Milky Way phrasing). This was Zeus’s plan so he could feed on Hera’s milk to become immortal </li>
+<li>Alcides name was changed to Heracles (Hera’s pride or glory) to appease the goddess </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Heracles grew up strong but had a temper and wasn’t musical (led to him murdering his musical teacher). Heracles was also dim</li>
+<li>Heracles famously kills a lion which granted him honour from the people of Thebes, a land which he effectively became heir</li>
+<li>Megara was his Theban wife </li>
+<li>Heracles killed a dragon and demon in his house, but those proved to be an illusion and were really his wife and children. All of this was a ruse and terrible revenge by Hera</li>
+<li>This act tarnished Hercales’s reputation </li>
+<li>To seek penance, he ends up having to serve ten tasks from a foreign king (his jealous cousin) and serve as a slave until these are achieved. This is all construed by Hera </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>The first task for Heracles was to kill the legendary Nemean lion descended from a monster. Unable to penetrate the lion’s skin, he knew he had to use brute force to strangle it. Using the lion’s own claws, he created a pelt, necklace and club which would be forever associated with Heracles </li>
+<li>The second task was to kill Hydra which guarded the underworld. Every head he cut off, two more would sprout </li>
+<li>There was also a crab planted in the water by Hera which was killed (and honoured by Hera as a constellation cancer). To defeat the Hydra, his nephew from his mortal brother came with an idea: after cutting off one head, burn its stump neck before it could grow another in its place </li>
+<li>The final immortal head was cut off and buried (where it releases phosphorus gas from Lake Lerna today)</li>
+<li>Heracles dipped his arrows into the hydra’s blood</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Third task was to get a hide from an elusive animal which was sacred to Artemis. Ended up brining back the animal without killing it and making a deal with Artemis </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Fourth task was to capture a boar. After consulting with a famous wise centaur Cheron, many centaurs were drawn to the area due to the wine and angry/drunk, Heracles killed some of these centaurs with his Hydra soaked arrows. The centaur Nessus would seek revenge in time</li>
+<li>Next was to clean the dung of a nearby king’s herd of immortal sheep, and Heracles was smart enough to use his strength to divert rivers where water was dung and fertilized the nearby land
+
+---
+
+<div><h1>Apple in China (part II)</h1></div>
+<ul>
+<li><br></li>
+<li>2008 crash and global US wars pushed China to invest in itself versus haunt over reliance on western economy </li>
+<li>China worried about economy inequality between developed coastal cities and poor mainland</li>
+<li>Labour issue due to such high attrition - as Chinese labourers sought to escape monotonous work</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Apple continued to succeed with no repeat of PCs because: was aspirational, targeted higher earners, and had lock in hardware and software ecosystem</li>
+<li>Right to repair was partly hurt to combat “yellow cows” scammers </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>“Gang of eight” - new group of VPs in Apple focussed on China </li>
+<li>China much more decentralized - with regional governments given power to meet federal objectives </li>
+<li>West believed capitalism and growth would make China less authoritarian and people had some incentives as the west - but wrong, government merely evolved but doesn’t loosen its grip. Simplistic view that every country is in a different phase of linear development </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Huge amount of Chinese labour was “floating” dispatch labour to accommodate for high and low seasons etc. China was fighting against this </li>
+<li>Was strategic to ensure Apple curries favour with local provincial governments</li>
+<li>China leveraging its market access - including in China. E.g. Qualcomm to pay a lower licensing fee to access Chinese phones </li>
+<li>iPhone is under 20% market share but accounts for 80% of profits - low margins squeezing suppliers through competition, volumes, and eagerness of suppliers to gain knowledge transfer </li>
+<li>Apple would even procure materials versus the suppliers - partly to squeeze suppliers but also securing sufficient materials to keep up with volumes </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Japan invested billions in China From 1970s</li>
+<li>Apple’s message to China made it change its JV model, letting Tesla open its first foreign car factory without a local partner</li>
+<li>JV with German automakers meant until 2016, Germany represented 70% of luxury car market. Didn’t translate to knowledge transfer in way China wanted</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li> Catfish effect - when sardines are caught, they remain sedentary and die with only few surviving. Norwegian farmer found putting catfish kept sardines moving and afraid. Presence of single predator keeps the whole tank better </li>
+<li>China now represents 50% of Tesla’s prediction - China’s EV market expanded significantly </li>
+<li>Lenovo is a Chinese company founded by government research institute - which purchased IBMs think pad business </li>
+<li>China tested App Store vulnerabilities creating apps that could delete contacts</li>
+<li>Asked Apple to remove VPN apps and Apple complied</li>
+<li>Xi did a hard crackdown on labour rights NGOs - no protests and journalists are personally liable for spreading misinformation </li>
+<li>Apple booked 50 business class seats from Apple to Shanghai daily on United</li>
+</ul>
+<div><br></div>
+<ul>
+<li> </li>
+<li>Chinese phones dominate China, India, and Russia and sell more phones globally</li>
+<li>Samsung manufacturers small proportion of phones in</li>
+<li>India growth not pacing same rate as China</li>
+<li>India might have large cheap workforce, but that doesn’t just mean it’s the next China - it lacks the supply chain, network of skilled suppliers, sense of work culture, government support, much more fragmented and less “motivated” government, and flexible workforce etc. </li>
+<li>Tata wants to be a leader here, acquiring Indian based Apple assembly plants </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Apple Silicon purely made by TSMC, further expanding its China risk </li>
+<li>Huawei now has its own OS which could shape to be some a major global rival to Android (already biggest OS in China)</li>
+<li>Could Tim Cook become the next Jack Welch in retrospect </li>
+</ul>
+
+
+---
+
+<div><h1>Istanbul - memories and the city (on hold)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Orhan Pamuk<br></li>
+<li>“We took photographs to impress our <i>future </i>selves”</li>
+<li>“Rearrange life inside of a photograph”</li>
+<li>Abdulhamit the 2nd ruled Ottomans from 1976 to 1909<br></li>
+<li>Ara Guler - famous Turkish photographer</li>
+<li>Hill Sahenk - photographer </li>
+<li>Greek Orthodox were expelled after 1964 (part of broader population exchange) <br></li>
+<li>After Ottoman collapse, Istanbul was weakened and dilapidated   <br></li>
+</ul>
+
+
+---
+
+<div><h1>The Odyssey (finished) </h1></div>
+<div><br></div>
+<ul>
+<li>Intro to world </li>
+<li>Start of Trojan war: Hermes bright Paris to award the most beautiful goddess with a gold apple and he chose Aphrodite (who promised him Helen)</li>
+<li>Odysseus inspired by Athena came up with the , which was just tall enough to require bringing down the gates</li>
+<li>Athena felt shame despite her victory due to the pillaging of Troy (brought on by an unjust victory)</li>
+<li>Athena favoured Odysseus </li>
+<li>Cassandra was raped in Athena’s temple, which enraged the god. Cassandra was cursed with the gift of foresight/prophecy that none would heed (granted by Apollo) - and she was daughter of Priam and Hecuba </li>
+<li>Priam was killed by Achilles son</li>
+<li>Athena and the other pro-Greek gods asked for Greek return to be cursed with a storm </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Odysseus saved a priest from murder from his crew mates and in turn Apollo priest granted him delicious wine, which needed to be properly mixed with water due to its strength </li>
+<li>Eurylochus, Odysseus’s crewmate and brother in law and tension built between them</li>
+<li>Odysseus wife Penelope and son Telemachus</li>
+<li>The men rejected Odysseus call to leave and stop pillaging, and the islanders exacted their revenge</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Menelaus and Helen marriage had a hole - rumour / murmur of how much of a victory Helen was or whether she chose to escape with the handsome Paris</li>
+<li>Calchas is Agamemnon’s prophet</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Giant storm formed around the Greek ships</li>
+<li>Aeneas - child of Aphrodite and a mortal who Zeus tricked her to have a child with. Hera wanted to eliminate Aeneas because his descendants (the Romans) would destroy her Patron empire of. Carthage </li>
+<li>Poseidon’s storm caused Menelaus to lose his treasures from Troy</li>
+<li>Ajax was eventually killed by Poseidon for his blasphemy </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Aeneas (founder of Rome / Romans)<br></li>
+<li>Juno was Hera’s Roman name</li>
+<li>Apollo only Greek god not renamed by the Romans </li>
+<li>Mars was considered the Roman’s divine patriarch and Romans didn’t revere Athena/Minerva as much as the Greeks</li>
+<li>Aeneas saved by Neptune because he didn’t like others interview with the sea</li>
+<li>Dido - the queen of Carthage, curses Aeneas for betraying her love to fulfill his property of forming a new empire (the rivalry between Carthage and Rome)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Agamemnon’s wife Clytemnestra (Helen’s sister) had an affair with Agamemnon’s cousin whose father he killed - fuelled by her anger when Agamemnon sacrificed their daughter to amend the goddess Artemis for the Greeks killing a bore, where he used a marriage to Achilles as a trick </li>
+<li>Mycenae reign was born out of bitter brotherly food with Atreus (Agamemnon and Menelaus’s father) winning</li>
+<li>Clytemnestra stabs Agamemnon with her lover in his bath and also kills Cassandra daughter of Priam</li>
+<li>Her remaining children escape </li>
+</ul>
+<div><br></div>
+<ul>
+<li>In Ithaca </li>
+<li>Special olive tree loved by Penelope would be used to build a bed and cradle </li>
+<li>Young Telemachus - raised and mentored by Eumaeus (a swine herd) in Odysseus‘a absence. Granted entrance to an elderly guest (Mentes - king of the Tephians - but really Athena in disguise) </li>
+<li>Hundreds of suitors sought Penelope’s hand to claim Ithaca who are ruffians </li>
+<li>Penelope avoided suitors by claiming to weave a shroud in honour of the new king and suitor and marry when it’s ready, but she would secretly unpick at night so she would never be ready. But then secret was spilled</li>
+<li>Antinous is a bully to Telemachus and charming leader of the suitors</li>
+<li>Telemachus - through power of Athena - grew taller and more powerful, even intimidating Antinous </li>
+<li>Telemachus now sailed to find his father with his tutor Mentor</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Athena would guide others in disguise (grey eyes was a tell)</li>
+<li>Telemachus guided by Athena to visit Nestor then Menelaus of Sparta</li>
+<li>Telemachus visited Menelaus who revealed he was stranded on an island in Egypt - when he was helped by the goddess Eido to tipped them to capture her shape shifting her Proteus</li>
+<li>Reveals Odysseus is trapped on an island of Ogygia by the nymph Calypso who’s in love with him<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li>Leaving Ogygia </li>
+<li>At Athena’s behest, Zeus sent Hermes to Ogygia to inform Cylpso to let Odysseus’s return despite her deep live for him after 7 years</li>
+<li>Odysseus on a raft is thrown off course by Poseidon who is angry at him</li>
+<li>He was saved by an Ocean goddess who granted him a special veil, which he returned to the Ocean (grabbed by a white arm emerging from the water)</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Agamemnon’s chi
+
+---
+
+<div><h1>The taste of empire (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>By 1775, food represented half of British Empire’s imports and sugar overtook linen as the most valuable import</li>
+<li>Fishing in Newfoundland helped play a big role in establishing the foundations of the British empire (ship routes to Canada is how many early on got familiar with cross-Atlantic currents for navigation)<br></li>
+<li>Fish was popular (14th century) - due to Christian tradition of abstaining from meats during fast days. Northern Europeans monopolized the North Sea (east of England) pushing British to search elsewhere for Cod. Bristol (famous for wine, which meant it had connections to Spain and Portugal which soon started trading tasty English cod for wine)</li>
+<li>John Cabot (from Italy) was in Bristol (which emerged as key maritime city and knowledge of Atlantic currents due to its connection of cod fishing) discovered Newfoundland (sponsored by Henry the seventh) which proved to be rich with cod </li>
+<li>Demand for English cod increased as it serves as key food for sailors (who saw an uptick due to Henry the 8th goal to recoup land lost to France). Due to more conflicts and poor harvests and weather, salt cod demand increased as a food substitute for meat</li>
+<li>Newfoundland fishing industry grew (and become increasingly industrialized with production-line like efficiency) - as merchants joined fishermen and trips to Atlantic became routine </li>
+<li>Southern European demand for salted English cod continued to increase, injecting more cash into British economy. Cash was reinvested to fund expansion of British exploration and empire </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Ireland unique Gaelic culture was always opposed by English and schism continued as Protestant England worried Catholic Irish would provide a base for English enemies  </li>
+<li>England sought to “civilize” Irish by transforming their pastoral agricultural system with arable farming and nuclear villages</li>
+<li>English sought forced settlement and pillaged and torched against resistance (leading starvation) transforming land into plantations. Arguably Ireland was England’s first colony. The Ulster plantation in Ireland began supplying England with meat, milk, butter etc. </li>
+<li>Ireland represented ideal colony for England - but rebellion sparked following Charles the first and Parliament’s conflict turning into conflict between rising Catholics and English settler protestants. Oliver Cromwell came to settle the colony and was brutal, resulting in famine (1652) and power and land now was with Protestant minority </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Newfoundland now increasingly colonized, the local Beothuk people forced to change their diet from seal and fish to more alternative meals who eventually became extinct </li>
+<li>A triangle of trade formed between England, Newfoundland, and Ireland- as Ireland supplied colonies with butter etc., Newfoundland supplied cod to feed slavers who farmed tobacco in Virginia to be sent back to England<br></li>
+<li>Sugar introduced to West Indies in the late 17th century. So valuable a crop, English didn’t want to use land to grow anything else to maximize sugar so it was dependent on imports. Cork in Ireland began to expand</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Cornbread - made of maze and mixed with flower to create bread (wheat didn’t survive well in New England climate but settlers associated bread with the “civilized”)<br></li>
+<li>In 17th century after some failed attempts, Jamestown proved to be the first successful colony based on tobacco and soon others followed on the Mayflower and established Plymouth </li>
+<li>Partly a religious migration - especially among puritans (Protestants) who saw issue with Charles the first move towards Catholicism. But also huge economic factors as smaller farm estates were being amalgamated pushing out small farmers <br></li>
+<li>English views imposed on Irish were also imposed on Native American (same thinking of “these people were not civilized enough to own the land” - but English settlers were forced to compromise and leverage Native’s food including maize, squash, and beans, since it was difficult to industrially cultivate land in their small numbers. </li>
+<li>Americans later reframed these foods as truly American versus compromise from “savage” natives</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Americans were extremely well fed as they had large herds of open grazing cattle expanding further west. In fact in war of independence, Americans on average 3 inches taller than the British </li>
+<li>Salt beef from New England was sent to West Indies to feed slaves. Fishing (used to feed slaves in West Indies) also grew substantially, leading to establishment of Boston as a major ship building centre</li>
+<li>Barbados become the most lucrative island of the British colonies. First taken as a British colony in 
+
+---
+
+<div><h1>The guns of August (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>George the 5th was king at the time and Kaiser Wilhelm the 2nd was at the funeral of George’s father (who was his uncle). He been stayed at Windsor Castle. Wilhelm hated his uncle and former king - who was the child of Victoria</li>
+<li>At king Edward the 7th’s funeral, there was a mass of European royals, many of whom were cousins / relatives. Edward was nicknamed “the uncle of Europe”</li>
+<li>Edward helped reestablish relations between England and France (seen as a tactful move to unify against Germany)</li>
+<li>Sentiment among Kaiser that Germany was being slighted from the world stage and wasn’t granted the same rights to expansion </li>
+<li>Clemenceau - “the tiger” was a French statesman and prime minister close to Edward </li>
+<li>Russian and England had an uneasy relationship, but leaned toward reconciliation due to a push from the French (who invested in Russia because it wanted a two front war). William sought to rectify this by writing to Nicholas that Russia, Germany, and Austria should join into a three empire agreement </li>
+<li>Popular book at the time “Great Illusion” argued war in the 20th century didn’t make economic sense where even the “victor”would lose and therefore this disincentives war and made it improbable</li>
+<li>Bernhardi - German general - believe war was natural and necessary first German progress </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Count Alfred von schlieffen - key German general. Belgium neutrality was seen as obstacle to German military success as it served as ideal route to attack France. Schlieffen died before World War One </li>
+<li>Belgium was established as a neutral land in the post Napoleon era and existed as an annexed area of Netherlands before Belgiums revolted because they didn’t want to be associated with Protestants and eventually became independent due to British PM Palmerston </li>
+<li>Existing treaties between France, Russia, Austria signaled that if war broke out Germany would have to fight on two fronts</li>
+<li>Schlieffen wanted to aggressively attack and defeat France first (through Belgium) then switch to the other front against Russia which would take longer to mobilize and defeat due to its larger land mass, weaker infrastructure, and weather </li>
+<li>Attacking France’s direct border with Germany didn’t make sense considering France’s reinforced borders in 1870 (after French Prussian war)</li>
+<li>Flanking against the enemy’s side was core to Germany military dogma. The thinking - not just in Germany - was that war would be quick </li>
+<li>Moltke was Schieffen’s successor and wasn’t as committed to committing nearly everything to the right flank </li>
+<li>Russia wasn’t prepared for war but there was new discussions happening between Russia and England which added pressure </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>French military belief was if Germans focussed on right flank, would mean they could break through the centre and left through the rhine </li>
+<li>France lost in the 1870, with Germany annexing part of France under Bismarck’s leadership</li>
+<li>France was military inferior to Germany </li>
+<li>General Michael of France correctly predicted the Schlieffen plan and argued to increase reserves to defend parts of Belgium but received push back for wanting to increase military presence by adding reserves (reserves were seen as harmful to overall army performance) - General Messimy was key opponent </li>
+<li>Joffre - commander and chief of French forces </li>
+<li>Lots of internal back and forth of French army around specific Germany strategy and whether Germany would rely heavily on reserves or not (since reserves were required to have a large enough army to perform envelopment through Belgium), as well as whether France should take offensive or defensive against Germany. French military leaders who wanted to proceed with an offensive Plan 17 and avoid focus to push through the Rhine </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Russia’s losses against Japan tipped the balance of power as its power as an ally was suddenly weakened</li>
+<li>England was beginning strategic talks with the French. Military leader John Fisher believed French were weak on land and wanted to leverage Britain’s naval strength</li>
+<li>As France and abirtian began to coordinate, it was clear that mobilizing Belgium was contingent on the fact of Germany invading first </li>
+<li>Russian was still viewed as a force due to its size, resources and population (despite its historical losses and weaknesses) that is hard to defeat in the long run</li>
+<li>The goal was to have France attack at the same time as Germany invaded Belgium to force it into fighting a two front war - despite Russia’s mobilization difficulties even despite France’s investments</li>
+<li>The Czar was hugely incompetent and ruled as a supreme leader with incompetent and corrupt military leader
+
+---
+
+<div><h1>Cleopatra (finished)</h1></div>
+<div><br></div>
+<ul>
+<li>Background </li>
+<li>Cleopatra (the 7th) ruled Egypt for 22 years. Cleopatra means “glory of her fatherland” in Greek</li>
+<li>Paramus means the greatest household<br></li>
+<li>From the Ptolemies - Macedonian Greek</li>
+<li>Her father (Auletes) supported Pompey the Great, who was defeated by Caesar. After Caesar was dead, she aligned with Mark Anthony (Marcus Antonius). He retreated to Rome after losing Cyprus and failing to support his brother who led the island<br></li>
+<li>After her death, Egypt became a Roman province (before it managed to secure autonomy)</li>
+<li>She featured in Plutarch’s work - famous Greek philosopher and historian who lived during Roman Empire and chronicles Caesar etc.</li>
+<li>Hellenistic period extends from death of Alexander the Great to death of cleopatra (roughly 300 years)<br></li>
+<li>Octavian = Augustus </li>
+<li>Interesting fact: Aesop is named after a Greek storyteller</li>
+<li>Caesar become a title after Octavius took the name of Caesar (after being adopted) </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Conflict </li>
+<li>Her and her brother (Ptolemy) were meant to rule Egypt jointly as husband and wife. She shunted him aside and in revenge he annexed her. </li>
+<li>Pompey - the once son in law of Caesar - was Caeser’s main rival and killed by Cleopatra’s brother and offered to Caesar</li>
+<li>Caesar wanted to quash rivalry and bring stability back to Egypt (political move and way to recoup debts from Egypt)</li>
+<li>Cleopatra snuck into Alexandria in a leather sack</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Ptolemy background</li>
+<li>Ptolemy the first strategically took Alexander the Great’s body to Egypt and his remains were displayed in a glass sarcophagus (eventually sold)</li>
+<li>Some Egyptian home even displayed in people’s home </li>
+<li>Ptolenies practiced incest marriage - an Egyptian custom. Incest meant to there conflict and centralize power, but instead concentrated wealth and created internal rivalries. Also elevated the role of princess as “they knew their worth” </li>
+<li>Ptolemy the 8th killed his own son and sent his limbs to his sister wife. <br></li>
+<li>Last true Ptolemy was killed by an angry mob after he murdered his wife ending the true line of Ptolemies in 80BC</li>
+<li>Then cleopatra’s father Ptolemy the 12th was sent for from Syria to reign (his mother was not royal but likely a Macedonian courtier)<br></li>
+<li>Ptolemy royals had the right to divorce </li>
+<li>Roman men were only obligated to raise their first-born daughter </li>
+<li>Cleopatra did learn Greek history and philosophy, but also the art of communication, politicking, and diplomacy/charisma </li>
+<li>Hieroglyphics was mostly ceremonial and even the literate would decipher in part (there was colloquial language more commonly spoken)   </li>
+<li>Alexandria was an international city and Cleopatra was among the few Pytolomies to speak Egyptian versus primarily Greek. She spoke up-to nine languages herself without the need for interpreters</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Aristotle was Alexander the Great’s and Ptolemeys tescher</li>
+<li>Accounts of Cleopatra focussed on her charm and not her stand out beauty. Likely had a hooked nose and skinny with tanned skinned (likely some Persian in her family)</li>
+<li>Caesar and Cleopatra became romantic when he was in his 50s and she in her 20’s</li>
+<li>Caesar was a great orator </li>
+<li>Cleopatra‘a brother was incensed of the affair and she had deviated the power dynamic in her favour </li>
+<li>Cleopatra’s father effectively expelled and unpopular (left his brother dry when Rome took over Cyprus). </li>
+<li>Caesar returned the island to instil support in uneasy Alexandria, with Cleopatra’s brothers and ambitious sister supporting skirmishes against the Romans </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Rome captured most of Egypts external lands, but its massive wealth and history served as a unique barrier as it could imbalance the power dynamic and rise in Rome: a loss if destroyed, risk to annex, a problem to government<br></li>
+<li>Alexandria in state of constant riot. People had disdain for Ptolemeys who would go to Rome for backing (and got taxes heavily to pay for that Roman support)<br></li>
+<li>Many Ptolemeys were pressured or even killed by their populace</li>
+<li>Auletes was returned to power by the Romans (and Mark Anthony) and had his daughter Berenice (who took power from him)</li>
+<li>Greek Alexandrians and indigenous Egyptians especially split - with the latter following Cleopatra as the pharaoh </li>
+<li>In early days Cleopatra, falling to the same pitfalls as her father, committed to Rome’s requests (sending support to Pompey during very poor crop yield) while Alexandria was struggling. Pushing her out to Syria.</li>
+<li>Egypt was hugely dependent on Nile - poor flood could mean poor yields and civil unrest <br></li>
+</ul>
+<div><br></div>
+<ul>
+<li>
+
+---
+
+<div><h1>Africa is not a country</h1></div>
+<div><br></div>
+<ul>
+<li>Africa - 54 countries, two thousand languages, and 1.4 billion people<br></li>
+<li>Lagos is Nigeria’s largest city and is massive with close to twenty million people - mostly two hubs of mainland and Lagos island </li>
+<li>Brazilian slaves returned to Nigeria, establishing a Brazilian quarter</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>1884 Berlin conference - where European powers established borders of Africa. Within 30 years of the conference, 90% of Africa belonged to Europe</li>
+<li>Bring the three Cs: Christianity, commerce, civilization</li>
+<li>America only country not to sign</li>
+<li>Included vague commitment to end slavery </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>King Leopold 2nd of Belgium</li>
+<li>Managed to get a large plot of land seemed inconsequential to other powers - but had land surveys years prior and knew of resources. Land was Congo - today the 11th largest country by land mass</li>
+<li>Due to economic realities, slaved population and had them put to work to extract rubber (painful process). Slaves were killed and had arms severed as proof of death. Estimated 10 million people killed during his 20 year reign.</li>
+<li>Leopold never went to Africa in his life<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>France took over north west, including Senegal</li>
+<li>Republic of Congo and Democratic Republic of Congo are two different countries </li>
+<li>British took Nigeria </li>
+<li>British method of colonialism often included leasing out lands to companies and buying back the land later - to streamline and outsource land takeovers. England taking multiple part of east, west and south of Africa</li>
+<li>Part of the Royal Niger Company used to colonize parts of Africa indirectly transitioned into Unilever</li>
+<li>Rhodes Scholarship in Africa funded by estate of colonialist and miner, even naming parts of Africa after himself </li>
+<li>Portugal took parts of west Angola and Mozambique - and few islands in West Africa   </li>
+<li>Libya formed through Italy after battles with Ottomans </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Nigeria and Cameroon fought over oil rich areas based on old borders </li>
+<li>Congo and Uganda fight over a border that was split by river whose flow is changing due to global warming etc.</li>
+<li>About 30% of borders in Africa are straight lines</li>
+<li>Kakwa people split between South Sudan and north Uganda (Idi Amin was Kakwa)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Independence sweeps in the 60s and 70s of people from disparate languages and tribes under artificial borders</li>
+<li>Togo (formerly German colony) and Ghana became in conflict around independence - over Ewe people split by border </li>
+<li>Notion of “taking Africa as it is” </li>
+<li>Splitting country by smaller groups had big political and unknown implications / potential chaos - and potential power dynamic with South Africa, Kenya, Nigeria and other more powerful states that could leverage this as an opportunity to begin another form of African colonialism </li>
+<li>Cairo conference in 1964, African countries agreed to respect the existing borders</li>
+<li>Igbo people tried to separate from Nigeria - leading to 3 year civil war</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Secede vs maintain borders</li>
+<li>Somalia split between Italy and England</li>
+<li>Somalia under England was mostly led by local powers and was compromised of one ethnic group. Italy imposed close control over its mutliethnic portion of Somalia</li>
+<li>After being united post decolonization, Barre from the south committed heinous acts against the Isaaqs people</li>
+<li>Somaliland in north Samaria is effectively its own state (quite stable) but not recognized by international community</li>
+<li>South Sudan - new country internationally recognized in 2011 following years of civil war in Sudan (Muslim north and Christian south)</li>
+<li>South Sudan now in point of turmoil - first president (Dinka) and vice president (Nuer) both vying for power </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Kony 2012</li>
+<li>Simplifies issue to one bad man versus layers of complexity </li>
+<li>Proposed US military intervention (which would have its own consequences). Additionally, would mean violence against a mainly child force </li>
+<li>Proposed Africans aren’t capable to solve the issues they face and are reliant on the west (but also that they are force fed a solution)</li>
+<li>Encouraged slacktivism </li>
+<li>Inaccurate picture, as some of the issue hasn’t been as centred in Uganda anymore (videos captured were over 5 years old)</li>
+<li>Simplified the issues in a way westerns would empathize with and comprehend </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Much of the image of staring children tied back to 1980s Ethiopia, where poor grain harvest combined with brutal civically war led to death of over a million<br></li>
+<li>Refugee camp in Korem wa
+
+---
+
+<div><h1>Mythos (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Ancient Greek tales and gods can be tied back to Mesopotamia. But Greeks were first to create coherent narrative </li>
+<li>Greek gods weren’t a reflection of perfect but if the world and it’s people </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>At first there was timeless, bodiless Chaos</li>
+<li>Then from chaos there were primordial being:</li>
+<li>Prebus (darkness), Nyx (night) - had a child Hemera (day) and Aether (light). Nyx went on to give birth to everything from dreams to doom</li>
+<ul class="Apple-dash-list">
+<li>Then there was Gaya (Earth) and Tartarus (depths and caves)</li>
+</ul>
+<li>Gaia gave birth (on her own) to other being including Ouranos (sky)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Seeding of Gaya and Ouranos (Gaya’s son and husband) marked the beginning of time and true life</li>
+<li>Gaia had over a dozen children including 3 cyclops: represent thunder, lighting, and brightness</li>
+<li>Gaia also had other triplets, grotesque beings with hundreds of limbs - Gaia loved them, Ouranos detested them. He buried them in Gaya who now sought revenge to usurp her husband the sky king, consulting with each of her children (only Kronos would accept)</li>
+<li>Gaia created a sickle who she gave to her youngest Kronos to kill her husband</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Kronos castrated his father Ouranos - who cursed him to have Kronos’s children to also be his damnation </li>
+<li>Gaia was shocked even though she instigated it</li>
+<li>From Ouranos castrated parts, new beings  - the Furies - were formed (including vengeance)</li>
+<li>Kronos and his sibling were named titans - striving, straining ones. Meant as an insult but it’s meaning has changed over time</li>
+<li>Ouranos castrated bits were thrown into the ocean (represented as foam). Aphrodite was formed (her name means from the foam). Aphrodite = Venus in Rome</li>
+<li>Ouranos - cast into underground to curse the deep land (his connection to uranium as an element)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Kronos ate hold children (from Rhea), scared they’ll destroy him like he did his father</li>
+<li>His children were the Greek gods. Zeus (Jupiter to Romans) youngest escaped being eaten thanks to his mother Rhea and grew up in Crete in secret </li>
+<li>Unaware of his own strength, Zeus broke the horn of the she-goat who helped raise him and it was filled with an unlimited supply of food. Cornucopia (horn of plenty) - origin of term</li>
+<li>Kronos poisoned by Zeus and Rhea - vomited back out his 5 other children </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Titans and Gods would go into war. 10 year war caused earthquakes and volcanoes to form, literally reshaping the world</li>
+<li>Zeus partnered with the cyclops etc. (cyclops were thunder, lightings, and brightness - and gave Zeus lightening to hurl at his enemies)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Muses - children of Zeus and Memory (one of the origin titans). 9 muses, each represent a particular art form (poetry, history, etc.)</li>
+<li>Gorgons - included Medusa, where the idea of being scared still originates</li>
+<li>Atlas - Zeus’s strongest enemy titan was sentenced for holding the sky as punishment- separating earth from heavens, a former task of Oranaus and Kronos</li>
+<li>Kronos was punished to count time itself for infinity (his name ties to chronograph and he’s associated Father Time etc.). He’s Saturn in Ancient Rome - associated with saturnine, which means gloomy</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Hestia - good if hearth </li>
+<li>Hades and Poseidon hated each other (Hades was jealous as he wanted to be god of the sea)</li>
+<li>Hades was king of underworld, which because it was underground where gems and precious metals reside - also ties him to valued jewels, wealth, and riches. His Roman name was Pluto, associated with modern words like plutonium </li>
+<li>Hydra - one of the many monsters born from Gaia and Tartarus </li>
+<li>Poseidon- his trident was forged by Zeus’s trident. He’s Neptune in Ancient Rome</li>
+<li>Demeter - beautiful goddess of harvest. Her Roman name was Ceres, which the word cereal comes from </li>
+<li>Hera - Zeus’s extremely jealous and vengeful sister wife. God if marriage</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Hephaestus - Zeus’s first child from Hera. The “hideous” baby was thrown to the sea by Hera. Became the greatest of smiths. He tricked his mother to marry the most beautiful Aphrodite despite being hideous and with a limp. God of fire and blacksmiths - Roman name is Vulcan (ties to terms today like volcanoes)</li>
+<li>Ares (Mars to Romans) god of war - second child of Zeus and Hera. He and Aphrodite (Venus in Ancient Rome) loved each other </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>At Zeus’s wedding, a challenge to make the most amazing dish in exchange for a favour. A bee called M
+
+---
+
+<div><h1>The storm before the storm (finished) </h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Final victories of Carthage in final Punic wars was a key moment that led to rising economic inequality, political polarization, rampant corruption etc. </li>
+<li>Under Aemilianus - Rome finally defeated its biggest enemy Carthage (along the Mediterranean in North Africa)</li>
+<li>In 146 BC, Corinth and Carthage were defeated and Rome stood as the single true imperialistic force in the Mediterranean</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Story: two brothers Romulus and Remes were found bonded near Tiber River where they were suckled by a she-wolf. Brothers fought about borders and Romulus won founding Rome in 753 BC</li>
+<li>Rome’s location was ideal for farming community with access to Tiber River, hills for defence etc. </li>
+<li>First king Romulus (handled legions, senateand general assembly) 2nd king Numa (priesthood and religious ceremonies etc.)</li>
+<li>In 509, last king was chased out by senate and new republic was formed. Not full republic and those with connections were known as patricians. Plebeian referred to the rest of the population outside of the powerful inner circle of patricians </li>
+<li>Conflict between plebeian and patricians was known as conflict of the orders </li>
+<li>The plebeian assembly elected tribunes who would stand for plebeians and push back against patrician abuse</li>
+<li>Mos Maiorum - unwrtitten social rules / way of the elders - which Roman society functioned</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Early on there were wars with Samnites (nomadic people of Italy). Rest of Italy resisted Roman’s but when Samnite wars were completed in 295 BC, Rome was the single ruler</li>
+<li>Then there were Punic wars in 300, Carthage in North Africa was expanding and gaining control of Sicily </li>
+<li>Carthage almost won when Hannibal invaded Italy in 218</li>
+<li>Lucius Aemilius Paulus in 168 BC defeated Macedon king and Macedonia now split up into four states </li>
+<li>Polybius - Greek scholar - trained and educated Aemilianus. Influx of educated Greeks entered into Rome as slaves or exiles from Greece. Polybius also wrote about rise of Roman Empire </li>
+<li>Executive counsels - two leaders who could each veto each other and ruled for a period of one year after which new duo of executive counsels took power. In times of crisis the two counsels could appoint one man dictator (position would expire after six months)</li>
+<li>Senate contained 300 people, who regularly counselled the executive consuls </li>
+<li>Aside from executive consuls and senate, there were the assemblies of which there were three: centuriate assembly, tribal assembly, and plebeian assembly. These three elements ensured balance <br></li>
+<li>During Punic wars, senate managed to take more control as annual change over of executive counsels became a hindrance. Also began to manipulate which tribunals got elected and assemblies became a puppet of the senate which was forming powerful oligarchy </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>As conflict of the elders ended, new aspect of hierarchy emerged outside of patrician or plebeian. It was the “noble”: anyone who could claim a spectator to an executive council. Those who had no consular ancestors were named novus homo or “new man”<br></li>
+<li>Magistrate structure / cursus honorum/ path of honours. First step in cursus honorum was: quaestor, tasked with record keeping and accounting. Then there was aediles tasked with games and public works. After, aediles and quaestor could run for praetor to become senior magistrate. The praetor’s could take control from executive counsel who were only two people rotated annually so could not be everywhere</li>
+<li>New man (novus homo) could only go up to praetor at the highest level<br></li>
+<li>Cato, an elder, saw how Carthage was gaining in riches after the end of the Punic wars so suggested they to go to war again and Senate agreed in 150 BC. War started again marking third Punic war (Hannibal was in 2nd Punic war)</li>
+<li>As 3rd Punic war dragged out, there was a desire to change power and Aemilinaus was elected as councillor (even though he was only a questor, not even aediles or praetor)</li>
+<li>Lucius Mummius was also elected councilship as the first novus homo to do so in 40 years<br></li>
+<li>After some resistance from Macedonia and Greece, both were crushed by Romans and joined into one annexed region ruled by Rome called Macedonia </li>
+<li>Mummius conquered Corinth / Greece and Aemilianus conquered Carthage and annexed it as a new territory of North Africa<br></li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>As a teenager, Tiberius Gracchus saw Carthage burn and was serving under Amelilianus<br></li>
+<li>Tiberius’s mother - Cornelia - was the daughter of Scorpio Africanus who defeated Hannibal in second Punic war</li>
+<li>Rome saw huge influx of wealth in 200s BC as wealth was funneled from G
+
+---
+
+<div><h1>Saladin (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Reynald- “antagonist” of Saladin who is almost cartoonishly evil, and how is eventually killed by Saladin</li>
+<li>Baalbek Lebanon - located between two Arab empires, Abbasid and Fatimid </li>
+<li>Saladin’s name was Yousuf </li>
+<li>High literacy in Arab world filled with books. Calligraphy and written word was seen as an art form - elevated by role of Quran </li>
+<li>Saladin was born in 1137</li>
+<li>Embrace of science and beautiful architecture, translations from Ancient Greek work etc. </li>
+<li>Mathematics - zero from sifr (empty)</li>
+<li>In year 1000, Baghdad had a population of 1.2 million - equal to London in the 1800s</li>
+<li>Philosopher physician Ibn Sina (known in Europe as Avicenna) </li>
+<li>Muslim world was seemingly united - but there was fragmentation always, even starting with Sunni and Shia. Sunni and Shia was split between Abassid(Sunni/origin from Prophet’s uncle Abbas) and Fatmid (Shia/Cairo, origin from Prophet’s daughter Fatima and Ali)</li>
+<li>Saladin was born in Abassid (border with Fatmid) - when it was facing issues due to caliph conflicts, threat of Turks moving westward etc. </li>
+<li>Assassins - Shia Ismailis who beloved Ismail represented the true heir / line of Mohammad </li>
+<li>Hasan I Sabbah - formalized leader of Ismailis who fought against Turks. Origin of hasish and assassins was likely a derogatory term. Alamut was the Assassins base. Nazir and Naziris - origin from the eldest son of Caliph of Fatmid Nizar who would produce the hidden Imam. Nizar fought for power to take Caliph role which he saw his right but was killed</li>
+<li>Constantinople - Rome’s eastern capital founded by Ancient Roman Emperor Constantine (now Istanbul) </li>
+<li>Pope Urban 2nd launched crusades to unite fractioning Christian region: Constantinople was under threat of Turks advancing west, Rome and Constantinople had differences in religious creed causing a rift, and Pope and France had conflicts. Europe was also flourishing due to improved farming (ox ploughs and crop rotation) and invasions from Viking settled. Europe could “afford” foreign conquest </li>
+<li>Start of crusade would be to conquer Jerusalem which had been in Turkic hands for 400 years (crusaders believed the original cross was there)</li>
+<li>Franks/Franj became the catch all phrase for crusaders </li>
+</ul>
+<div><br></div>
+<ul>
+<li> </li>
+<li>Byzantine empire (known as “eastern Roman Empire) led by Alexios who embraced siege warfare (massive trebuchets) to take land from Turks </li>
+<li>Fragmented Arabs hoped the Franjs could wipe out their local enemy, even bribing them</li>
+<li>Sacking of Jerusalem by crusaders was brutal with people tortured, killed, burned etc. </li>
+<li>After occupying Jerusalem and parts of Arab world, no clear “vision” for crusaders</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Yusuf / Saladin was born in Tikrit. Same birth place as Saddam. His father was Armenian Kurd who moved to Abbasid hoping for better life (Abbasid was under control of Turkic rulers, Seljuks)</li>
+<li>Imad al-din Zangi, brutal Turk who was involved in civil war and had impact on Saladin. After losing battle in Tikrit, Zangi  was helped by Ayuub, Saladin’s father.</li>
+<li>Ayuub left Tikrit to help his brother and was stationed as a governer of Baalbek Lebanon thanks to Zangi who returned favour to Ayuub</li>
+<li>Zangi defeated crusaders in one area, executing 100 franj. Gained recognition. Zangi killed by slave so Ayuub and family no longer governor effectually relegate to Damascus </li>
+<li>Nur al din, youngest of Zangi’s children and a great leader and reigned over western part of his father’s empire. Nur albdin represented an inspiration to Saladin, who would soon become his protege </li>
+<li>Umayyad Mosque in Damascus - first pagan worship, then church dedicated to John Baptist, then converted to mosque by al-Walid</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Zangi’s defeat of crusader sparked reaction from Europe, which led to another crusade. New pope (Eugenia 3rd) and German King (Conrad 3rd) - sparking the 2nd crusade. Europeans struggled and face defeat and hardships in 2nd crusade from harsh weather and resistant Turks </li>
+<li>Crusaders target was Damascus (changed from Edesa, which was the city taken by Zangi). Second crusade was a failure </li>
+<li>Saladin’s older brother was killed in the fighting (Saladin was only 11)</li>
+<li>Nur al din strategically grabbed control over Damascus with the help of Ayuub. Syria’s major cities were now under Muslim control under Nur al din with Saladin’s father and uncle high up in the circle</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Turks, Arabs, and Europeans were close geographically and were enemies and trading partners </li>
+<li>Likely a network of tens of thousands of pigeons trained to send messages between all cities</li>
+<li>Fatmid was now in decline, inner political problems of v
+
+---
+
+<div><h1>Troy (finished)</h1></div>
+<div><br></div>
+<ul>
+<li>Story if Troy traces back to the Bronze Age and story is written five centuries later by Homer in the Iron Age </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Origin of Troy </li>
+<li>Zeus and Electra (daughter of the titan, Atlas) had a son called Dardanus - who went to establish Dardania in the Aegean   </li>
+<ul>
+<li><b><u>Ilus - descendent of Dardanus - would found a new city called Troy</u></b>, named in honour of his father Tros. Troy would be built on where a sacred cow settled (as foretold by an oracle). Same way first major city state of Thebes was built </li>
+</ul>
+<li>Ilus received a special spear / stick which fell from the sky and included a carving of Athena reinforcing this was the right location for Troy (xoanon / Palladium) </li>
+</ul>
+<div><br></div>
+<ul>
+<li><b><u>Laomedon and Heracles</u></b><br></li>
+<li>Apollo and Poseidon built the famous walls of Troy - commissioned by Ilus’s greedy son Laomedon and next of kin. After refusing to pay the gods, Troy suffered plague and the king was forced to sacrifice his daughter (Hesione) to a sea monster</li>
+<li>Heracles saved Hesione from Poseidon’s sea monster, asking for Troy’s famous horses in return but was deceived by greedy king </li>
+<li>kind Laomedon of Troy and his descendants were killed by Heracles later in revenge. <b><u>Hesione spared as was one of Laomedon’s sons - Podarces</u></b> - in exchange for golden veil from Aphrodite </li>
+<li><b><u>Podarces, as a proud well spoken boy, would lead Troy as new King named Priam - translated to “the one who has bought” in exchange for the golden veil gifted by his sister</u></b> </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Pelops - a noble who fought against Ilus and lost, retreating forming the area and relocating to the area in Greece known as <b><u>Peloponnesian /  Peloponnese (named after Pelops)</u></b><br></li>
+<li>Oenomaus king of Pisa (located in Peloponnesus) had a prophecy his daughter Hippodamia’s husband would kill him. So established her suitor would have to defeat him in a chariot race</li>
+<li>Pelops - through cheating and aid from his old lover Poseidon - won the race and even betrayed Myrtilus who helped him cheat </li>
+<li>Part of Aegean Sea where Myrtilus (son of Hermes) was thrown is still named after him. Myrtilus cursed Pelops</li>
+<li>Pelops now rules as king with Hippodamia and he hosts games every 4 years at kingdom of Olympus in honour of his chariot game win</li>
+</ul>
+<div><br></div>
+<ul>
+<li><b><u>Telamon</u></b><br></li>
+<li>Telamon (Heracles companion, former royalty and grandson of Zeus) married Priam’s sister Hesoine and as a kid was banished from his homeland with his brother for the accidental death of his beloved half brother Phocus </li>
+<li><u>Telamon was the father of Ajax and master archer Teucer (Teucer from Hesoine) </u><br></li>
+</ul>
+<div><br></div>
+<ul>
+<li><b><u>Peleus (father of Achilles)</u></b></li>
+<li><b><u>Brother of Telamon and was also banished for killing Phocus</u></b> </li>
+<li>Pelus and Telamon were Argonauts </li>
+<li>Peleus was the grandson of Chiron who also helped mentor him </li>
+<li><b><u>Thetis</u></b> - beautiful sea nymph who could shape shift. The prophecy from Prometheus was her son would be greater than her father (which is why the gods never touched her despite her beauty)</li>
+<li>Marriage of Thetis and Peleus was a special gathering which saw gods gather </li>
+<li>Eris - goddess of strife -  barged into the wedding ceremony and placed a golden apple at Zeus’s foot before disappearing. Apple had carving that said “to the fairest”, causing debacle between goddesses trying to claim the title </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Random note</li>
+<li>Lyre was created by the genius god Hermes on the first day of his birth </li>
+<li>Golden Apple gifted by Gaia to Zeus and Hera</li>
+<li>Under Priam - Troy grew to be a great kingdom </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Priam’s sons </li>
+<li>For his second son after Hector, his wife had a dream that she would birth a torch she would carry around the city (prophecy meant the son would be the death of all of Troy)</li>
+<li>Priam could not smother the baby to avoid the prophecy </li>
+<li>Trusted herdsman was tasked to kill the baby but also couldn’t and so left it abandoned. A mother bear coddled the baby (after she lost her own cub recently)</li>
+<ul>
+<li>Herdsman (Agelaus) ended up raising the boy, using a dead pup’s tongue as proof the baby was killed</li>
+</ul>
+</ul>
+<div><br></div>
+<ul>
+<li>“Paris”</li>
+<li>Boy’s name was Pera (Greek for backpack, as that was how he was carried. Distorted into Paris over time)</li>
+<li><b><u>At marriage of Peleus and Thetis - Paris was asked to choose the most beautiful god for his proven honesty and he chose Aphrodite for she promised him Helen</u></b><br></li>
+</ul>
+<div><br></div>
+<ul>
+<li>More on Pelops</li>
+<li>Son of Tantalus, who lost against Ilus (son of Tros) of Troy</li>
+<li>Atreu
+
+---
+
+<div><h1>Power of habit (finished)</h1></div>
+<div><br></div>
+<div>My keystone habit:</div>
+<ul class="Apple-dash-list">
+<li>Dont say anything negative/pessimistic </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Intro </li>
+<li>Lisa - turned her life around after breakdown. Neurologists did intensive studies/interview to understand why/how </li>
+<li>She spontaneously gave herself a goal to work towards (trekking the desert). One thing she could control, and had knock on effects in terms of habit changes</li>
+<li>Her change in habits changed her brain</li>
+<li><b>Focus on one pattern to change everything. A “keystone habit”</b><br></li>
+<li><b>Most of life is driven by habits - which started as conscious behaviour but risks became automatic habits</b><br></li>
+<li>Create habit plans - trigger that make it easier to do things you want, which eventually become habits</li>
+</ul>
+<div><br></div>
+<ul>
+<li>The habit loop</li>
+<li>Eugene - spontaneously got sick and lost long term memory </li>
+<li>Damage to brain was in the medial temporal lobe, needed for cognitive tasks</li>
+<li>HM - famous patient. Removed his hippocampus and couldn’t retain new memories from past 20 seconds</li>
+<li>Research from Eugene suggests habit forming and learning can be done unconsciously.</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Basal ganglia. This is in inner primitive brain. Where repeated actions - eventually habits - get stored and is activated even when the rest of the brain is “off” </li>
+<li>Outermost brain is for most recent experience/learning</li>
+<li>Inner brain is for primitive cognition </li>
+<li>“Chunking” act of routine activities becoming habits</li>
+<li>Brain can convert any repeated activity into habit to conserve energy (even complex actions)</li>
+<li>Habit loop: 1. “Cue” a trigger for your brain to know to start habit/automatic mode 2. “Routine” the automatic action, 3. “Reward” for your brain to determine if it’s worth keeping<br></li>
+<li>Habits are hard to break because they’re so automatic</li>
+<li>Habits can develop without us knowing or can be deliberately designed</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Creating habits</li>
+<li>Claud Hopkins -wildly successful advertiser who used habits to build brands/draw in consumers </li>
+<li>Campaign around toothpaste made brushing a routine habit for everyone (wasn’t the case before)</li>
+<li> Create a “craving” - which triggers cue, routine, reward habit loop</li>
+<li>2 principles: 1. Obvious cue, 2. Clear reward </li>
+<li>Hopkins may have oversimplified his contribution - e.g. toothpaste had minor/tingling sensation which acted as a craving where consumers would expect that feeling in their mouth. That was the craving </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Stimson and Febreze </li>
+<li>The “cue” of bad small wasn’t obvious enough as people were desensitized </li>
+<li>Schultz - German scientist working </li>
+<li>Monkey test - would get sense of reward from cue. But if didn’t receive reward after cue, came depression and anger</li>
+<li>Habits create neurological cravings </li>
+<li>Even something small can be a craving that triggers habit loop. </li>
+<li>Expecting the reward is what really ingrains the habit<br></li>
+<li>Maintaining exercise was because of the anticipated reward (even if starting on a whim). E.g. endorphin rush. Make it easier to see cues (put shoes out)</li>
+<li>Foaming is a reward in soap</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Tony Dungy - coach of worst performing football team in history - the Buccaneers </li>
+<li>To change habit - keep the old cue and reward, but change the routine. Can’t eliminate a bad habit, can only modify it</li>
+<li>For me - could it be taking sips of water or eating vegetables when stress kicks in?</li>
+<li>Bill Wilson - founded Alcoholics Anonymous </li>
+<li>AA is rooted in habit changing. 12 steps after the 12 apostles </li>
+<li>As part of AA, you indirectly keep a list of cues/triggers and rewards tied to drinking</li>
+<li>Alcohol itself isn’t the reward, rather it helps people get distracted/forget their anxieties </li>
+<li>AA inserts new routines into existing cue and reward loops </li>
+<li>Awareness training - getting people to identify their triggers is key to include a new routine and achieve new habit reprogramming<br></li>
+<li>Belief/faith in something bigger helped cement the habit change routine, which may otherwise be fragile after a big event</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Habits for companies </li>
+<li>Aluminum company of America - O’Neil new CEO</li>
+<li>Started by focusing on one habit to improve workplace safety, which had rippling effects that grew profits (keystone habit)<br></li>
+<li>Changing one habit can have a chain reaction </li>
+<li>The best organizations understand the importance of routines/aka company habits</li>
+<li>Focusing on a habit change everyone can agree on</li>
+<li>O’Neil who worked on addressing infant mortality safety - started from identifying high death rates, u
+
+---
+
+<div><h1>Norse mythology (finished)</h1></div>
+<div><br></div>
+<ul>
+<li>World basics <br></li>
+<li>Asgard - land of Aesir: lived in by Thor, Odin, Loki etc. where the gods council around the well of Urd - where the three Norns decide what happens in our lives </li>
+<li>There are 9 worlds and the gods travel between them using the bifrosr</li>
+<li>Midgard is the land of man. Surrounded by Great Wall to protect against giants in the outer world (made of Ymir’s eyelashes)</li>
+<li>Vanaheim is the land of Vanir gods</li>
+<li>Niflheim - before there was earth, misty cold land</li>
+<li>Muspell - existed before life, the fireworld ruled by Hel (daughter of Loki and Angrodoba) who overlooks those who weren’t taken it Valhalla</li>
+<li>Alfheim- where the beautiful light elves lives and it belonged ti Frey </li>
+<li>Jotunheim - world of the frost giants, and home to the famous fortress of Utgard </li>
+<li>Brokk and Eitri (Sindri) are the two famous dwarves who crafted multiple items</li>
+</ul>
+<div><br></div>
+<ul>
+<li>More on the gods <br></li>
+<li>Odin sacrificed his eye for wisdom and was hung from the world tree</li>
+<li>He has two crows, named thought and memory</li>
+<li>Of you die in battle, Valkyrie will take you to Valhalla</li>
+<li>Thor is a redhead. His belt Meginjord gives him strength and Mjolner is his hammer, he wears iron gloves to grip  </li>
+<li>Thor’s mother is Jord, and his sons are: magni and modi, and his daughter Thrud</li>
+<li>Thor rode a chariot driven by goats that can reincarnate after death from its bones </li>
+<li>Loki is a shapeshifter and is blood brother to Odin</li>
+<li>Frigg (like Hera) and Freya (like Aphrodite) are different gods (the former is mother of Balder). She has a feathered cloth that lets her fly</li>
+<li>Frey is Freya’s brother and he had a powerful self-fighting sword</li>
+<li>Balder was beloved by the gods for his beauty </li>
+<li>Tyr was the one armed god of war whose father and mother were giants</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Founding of life<br></li>
+<li>Sutr, before the gods, being with a fiery sword and lore is he’d burn everything once Ragnok arrives </li>
+<li>Between Muspell and Niflheim in the “yawning gap” where life began with the largest giant being: Ymir. Ymir gave birth to all the giants</li>
+<li>Giant cow fed Ymir with its milk while it licked melting ice (which born a man - Bmir)</li>
+<li>Odin descended from Bmir (his grandson)</li>
+<li>Odin and his two brothers Jules Ymir to build the world: his flesh was soil, his skull the sky, his brains the could, his blood the rivers, his teeth the pebbles, his bones became mountains </li>
+<li>Gods found two pieces of wood - Odin breathed life into them and his brothers game them will and bodies. Their names were Ask and Embla (Adam and Eve of Norse world)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Mimir - wise one who had a well he drank from in Jotunheim</li>
+<li>Mimir granted Odin the gift to drink from the well to gain wisdom but Odin had to sacrifice his eye </li>
+<li>Aesir and Viner fought in a war, and Mimir’s head was cut off while served as a mediator  </li>
+</ul>
+<div><br></div>
+<ul>
+<li>The great gifts to the gods <br></li>
+<li> Mjolnir - made by Brokk and Eitri and can change shape and return after being thrown. Small handle (so it could be held with only one hand) because Loki sabotaged its making by turning into a fly and biting Brokk. Likely indirectly led to the greatest gift to the gods </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Story of the wall<br></li>
+<li>Stranger appeared in Asgard promising to build a protective wall against the giants in one seasons in exchange for Freya, the sun, and the moon</li>
+<li>Svadilfari - the stranger’s powerful stallion. Loki turned into a mare to distract the horse</li>
+<li>The stranger was secretly a giant who was defeated by Thor</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Loki’s children <br></li>
+<li>Angrodoba is Lokis second secret wife who had three children</li>
+<li>Small serpent which grew immensely (Midgard serpent which encircled the world)</li>
+<li>Hel - half girl, half corpse who Odin sent to watch over the dead who didn’t go to Valhalla </li>
+<li>Fenrir was a wolf cub that spoke man’s language and grew rapidly. Gods feared it excepted Tyr who fed it</li>
+<li>Tricked Fenrir into being locked in chains with only the chains called Gleipner (crafted by dwarves) proving strong enough  to hold Fenrir (made of steps of a cat, roots of a mountain etc.)</li>
+<li>Fenrir bit off Tyr’s arm (as Tyr offered it to reassure he wouldn’t be tricked as gods promised Fenrir they would set him free if he couldn’t break out)</li>
+<li>Fenrir swore vengeance against the gods and Odin</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Kvasir and the mead of poetry<br></li>
+<li>Aesir and Vanir symbolized their truce by spitting into a cup - which they turned into a being</li>
+<li>Wise god who travelled Midgard </li>
+<li>Kvasir was murdered by a a two dwarves who use his blood to infuse mead wh
+
+---
+
+<div><h1>Destiny disrupted - Part 1 (finished)</h1></div>
+<div><br></div>
+<ul>
+<li>Early settlements</li>
+<li>China relatively isolated from world history due to Geography - distance from the west and either Himalayas, desert or jungle from the rest of the east</li>
+<li>Only considered middle east from the perspective of the west</li>
+<li>Early civilization formed out of big slow moving rivers suspect to floods</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Iraq</li>
+<li>Iraq’s open geography which was accessible from multiple sides (unlike sheltered Egypt) mean there was constant interaction with settled and nomads leading to cycles of destruction and city expansion </li>
+<li>Sumer - first major big city where writing and wheel originated. -&gt Sargon of Akkadians conquered Sumaria.  -&gt Amorites conquered and created Babylon. -&gt Babylonian then Assyrians who ruled from Nineveh </li>
+<li>Assyrians were known as brutal people and forced relocations of their conquered people</li>
+<li>Chaldeans defeated Assyrians. Chaldeans known for medicine, math, and astronomy following period of peace, rebuilding Babylon </li>
+<li>Nebuchadnezzar was Chaldean king </li>
+<li>Persians conquered Chaldean’s</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Iran</li>
+<li>Following Persian conquest, period of stability and Persians adopted more passive tax oriented system to retain power (later adopted by Muslims and Turks)</li>
+<li>Darius’s Behistun - like Persian / Babylonian rosseta stone </li>
+<li>Zoroastrian aren’t  fire worshippers but see fire as the representation of “good” - Ahura Mazda </li>
+<li>Zoroastrian were against religious representation like Islam </li>
+<li>Zoroastrian priest is called magus (or magi for plural)</li>
+<li>Kandahar - origin is Iskandar of which it’s origin ties back to Alexander </li>
+</ul>
+<div><br></div>
+<ul>
+<li>More on Iran </li>
+<li>Parthians - new Persian empire at time of the Romans and were strong military but not much culturally.</li>
+<li>Sassanids came after Parthians </li>
+<li>Diocletian separated the Roman Empire into four parts to make managing empire more manageable but ended up resulting in collapse of western portion of empire </li>
+<li>Sassanids and Byzantine bordered each other and the east’s major empires</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Islam</li>
+<li>Prophet was part of the lesser known clan “Hashim” of the Quraysh and was an orphan raised by his grandfather then uncle Abu Talib</li>
+<li>Khadijah was a successful widow (suggests she had some influence and tact being successful in a male dominated society)</li>
+<li>Arabia was a trading outlet where people gained exposures / awareness of Judaism (after explosion by Romans) and Zoroastrianism of the Sassanids</li>
+<li>Yathrib is old name for Madina </li>
+<li>Laillut al Qadr, the night of power when Gabriel visited the prophet  </li>
+<li>Hijri means breaking ties - breaking old tribal ties for Islam</li>
+<li>The loss at the bottle of Uhud was blamed on Muslims deviating from Allah’s - an excuse still used from Mongol conquests to today  </li>
+<li>Banu Qurayza were a Jewish tribe that conspired against Madina and over 800 were executed by order of Mohammad for the treason </li>
+<li>Islam began to spread for numerous reasons including idea of Mohammad’s connection to god, stability in a tribe culture filled with infighting etc.</li>
+<li>He died in Aeyisha’s lap - she’s the daughter of Abu Bakr</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Khalifate </li>
+<li>Rashidun - the rightly guided ones. Much of this period was recorded by Ibn Ishaq decades later and Ibn Jarir al-Tabari </li>
+<li>Ali was the son of Abu Talib who raised the prophet and was the first male to convert </li>
+<li>Abu Bakr cemented the idea of the Umma to avoid successions from following Madina and the Zakkah, especially as many pulled away after the prophet’s death. The Apostate wars</li>
+<li>Omar - hotheaded brute - was endorsed as the second and Ali even supported. During Omar, the expanded and began empire building through Egypt and Persia </li>
+<li>Byzantines were defeated as Muslims conquered Damascus and they defeated the Sassanids after the Persians tried to penetrate the Muslims through use of spies - battle occurred over a river </li>
+<li>The Muslim tax on Christians were generally less than the taxes imposed by the Byzantines</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Why Muslims quickly expanded during Umar’s reign</li>
+<li>Byzantine and Sassanids were shells of their former selves </li>
+<li>Muslims mostly fought mercenaries and draftees far from home</li>
+<li>Similar to the Mongols after they, Muslims split the loot equally </li>
+<li>No conversion by the sword</li>
+<li>Omar declared the start of the calendar year based on the day of the Hijri</li>
+<li>Omar imposed strict punishment for drinking (not present in Qur’an)</li>
+<li>Omar imposed stoning for adultery (not in Qur’an)</li>
+<li>Omar regulated act of praying to be separated by men and woman. That said, woman were educated like men</
+
+---
+
+<div><h1>Destiny disrupted - Part 2 (finished) </h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Cotton first European industry to be industrialized and high demand due to US civil war blocking exports so Egypt double downed. But when civil war ended, everything collapsed </li>
+<li>French encouraged - by their government - to buy land in Algeria and develop it</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Beginnings of Wahhabism and Saudi</li>
+<li>Islam was now codified and no “Protestant”-like reformation </li>
+<li>Abdul Wahab believed Muslims had been corrupted and needed to go back to its core meaning / roots. Was disgusted by Basra’s metropolisim</li>
+<li>Had to escape from his Bedouin tribe after reaction he had a local woman stoned to death and he sought refuge with Ibn Saud, who wanted to unite Arabia</li>
+<li>Their pact help consolidate Bedouin rule in the peninsula </li>
+<li>Ibn Saud was assisted but his son Abdul Aziz took the mantle</li>
+<li>Aziz Ibn Saud conquered Karbala (where Hussein was killed) and killed 2,000 Shia in 1802. He then conquered Medina where he had tombs of prophet’s companions destroyed and destroyed prophet’s supposed birthplace to avoid worship</li>
+<li>After trying to conquer Asia Minor, Ottomans defeated him and had him executed. His family remained</li>
+<li>Wahhabism likely distorted from its core political principles today</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Aligarh movement</li>
+<li>Swayed by British</li>
+<li>Muhammad was the last prophet: not saying his revelations were final but he provided the final tools for how to live morally to mold life as it changes</li>
+<li>He formed scientific society which became Aligarh university in India - served as a hub of Muslim intellectuals who eventually made Pakistan </li>
+</ul>
+<div><br></div>
+<ul>
+<li>Jamalaldin Afghani - founder of modern Islamism</li>
+<li>Modernization didn’t mean westernization and used Islamic principles to justify the need for democracy </li>
+<li>Claimed the ulama had harmed Islam and its progress </li>
+<li>Believed Muslims should embrace western science but reject western social mores (but they ended up doing the opposite)</li>
+<li>Advisor to Afghan ruler then moved around and even was consultant of Persian Shah - could’ve been prime minister)</li>
+<li>His students and followers were key figures following his death </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Steam engine first used to remove water build up in mines by using steam pressure. Then English miner added one of these stems pumps to a cart to move make moving ore easier </li>
+<li>James Watt perfected the steam engine</li>
+<li>As artisan skills passed on through families became less valuable, focus on professional knowledge skills grew</li>
+</ul>
+<div><br></div>
+<ul>
+<li>Iran modernism</li>
+<li>New shah pushed for modernism (aka education) inspired by Europe, but was isolated to wealth urban class driving further social division</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Joseph Mazzini unified Italy - where unification and nationalism seen as a resistance force against Austria Hungry</li>
+<li>Unification of Germany and defeat against France also developed this sense of nationalism </li>
+<li>American civil war first modern war with quarter of million soldiers fighting </li>
+<li>Ottoman need for help against Muhammad Ali in Egypt by the Europeans led to many concessions  </li>
+<li>Tanzimat - new European like reforms entering Ottoman world </li>
+<li>Christian minority in Ottoman Empire perceived as gaining favourable terms with European businessmen. Armenians deemed as “other” and were financial lenders</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Generation later, Young Turks wanted to harken back to principles of Tanzimat and wanted to abandon Arab states to create a new nation state vs empire</li>
+<li>The three pashas (of the Committee of union and progress / nationalist branch of YoungTurks) took over control from the vizier as World War One elapsed</li>
+<li>Turks used the “Deportation Act” to relocate Armenians away from border so to not collaborate with Russians. This was in truth attempted elimination and genocide </li>
+<li>Nationalism in Arabia between two families: the Hashimites and Ibn Saud</li>
+<li>Hussein Ibn Ali - known as Sharif, as he descended from the prophet</li>
+<li>Sykes (British) and Picot (French) mapping out the region</li>
+<li>Two of the Pashas were assassinated by Armenians</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Ataturk - Mustafa Kamal - resists British occupation and created first Islamic secular state</li>
+<li>Imposed Swiss rules on divorce, banned head scarfs, he removed ulama class, and he even made ballroom dancing as official entertainment at state functions, made Turkish reading of Qur’an vs only in Arabic </li>
+<li>In Iran, Shah Reza Pahlavi was a modernist but didn’t believe in democracy and was propped up by British to resist Russian communist spread. Shah Reza Pahlavi also banned scarves and tu
+
+---
+
+<div><h1>Same as ever (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>What doesn’t change in an ever changing world is a key focus point “e.g. Bezos said what will never change is our customers always want low prices and fast delivery”)</li>
+<li>These never changing things are important to focus on because they don’t fluctuate based on luck, chance or accident  </li>
+<li>“You could be terrified of anything given the Infinite possibilities”</li>
+</ul>
+<div><br></div>
+<ul>
+<li>What persists?</li>
+<li>Story telling</li>
+<li>Understanding true risk isn’t what you see</li>
+<li>Appreciating role of time (not pushing for fake accelerated growth)</li>
+<li>That too much of one thing will lead to the opposite </li>
+<li>Lived experiences is unique and can’t be replicated by empathy </li>
+<li>Everything (including happiness) is relative</li>
+<li>Non quantifiable can have a huge impact even more than than the quantifiable - as the world doesn’t follow “logic”</li>
+<li>Changes are often triggered by a big event / non ideal circumstances </li>
+<li>Good things take time to compound</li>
+<li>Simplicity over complexity </li>
+<li>Creative pondering (little inefficiency) is powerful</li>
+<li>Etc.</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Battle of Long Island during revolutionary war was a defeat for Washington but also could’ve been a complete defeat and end of war / USA if it were not for the resistant winds that pushed back British boats </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Base predictions on how people behave / what’s consistent through time and not specific events </li>
+<li>Risk are the things you don’t see - not the unfortunate/undesired things you can </li>
+<li>“Invest in preparedness not prediction”</li>
+<li>Harry Houdini died of an appendix burst likely related to an unexpected punch in the gut </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>We measure happiness relative to other people </li>
+<li>1950s was objectively not a better but than today but is seen as peak of American prosperity. Big part of this is coming out of WW2 where there was a smaller pay gap in large part due to war wage controls during the war</li>
+<li>Everything is relative - which impacts your happiness - how objectively good you have it </li>
+<li>A world where everything gets better your expectations increase faster make </li>
+<li>People want certainty in an uncertain world. We want things to be black and white but everything is probability </li>
+<li>Due to sheer size and sample size, once in a lifetime miracle events occur quite a bit in our lifetimes </li>
+<li>Without local news, bad news (which is attention grabbing and occurs more at scale) gets the attention. News has become gloomier </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>The best “told” stories win, regardless of facts or logic. Having the right answer and being a good storyteller is the key </li>
+<li>Be aware of good things that are badly told (and vice versa)</li>
+<li>Story telling is KEY when topics are complex and getting people aligned on a single point</li>
+<li>The world doesn’t work rationally </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>The non-quantifiable can have a huge impact even if the fact they can’t be charted means others can discount them </li>
+<li>The world never really followed logic - and were shaped by the stories, faith, emotions, and random circumstances. It’s the reason Lehman brothers collapsed and GameStop soared </li>
+<li>What’s rational to one person might not be to another </li>
+<li>Excessive rain followed by excessive dryness is what leads to wild fires - an excess of one thing gives rise to its opposite (“calm plants the seeds of crazy”)</li>
+<li>A good idea scaled too fast can become a terrible idea. Scale appropriately and resist urge to accelerate your time horizon (e.g. Starbucks trying to scale too quickly) </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>But changes / great things are triggered by the non ideal</li>
+<li>E.g. Triangle fire (NY clothes factory on fire and countless died due to poor working conditions / locked doors to prevent workers from going on breaks)… this is what led a change in labour laws </li>
+<li>Military at the forefront of many innovations. Often because of the perceived need: if I don’t get airplanes working, the enemy will win the war and we’ll all die </li>
+<li>Could’ve never pushed something as transformative as the New Deal if it wasn’t for the extremely poor economic conditions.  Nor would’ve factories restructured assemblies lines to be more efficient to survive. Same theme: stress/necessity drives innovations and progress </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Good things take time to compound while bad things can occur instantly</li>
+<li>True progress comes from a balance of pessimism and optimism (avoid skewing too much to one side). Planning like a pessimist but dreaming like an optimist </li>
+<li>Rational optimist: world is dark and has many pro
+
+---
+
+<div><h1>Genghis Khan (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>In 1930s, Stalin’s forces raided and looted in Mongolia - including Genghis Khan’a sulde </li>
+<li>Sulde - strand of horse onto spear (embodiment of warrior’s soul)</li>
+<li>Genghis - sulde from white horse during peace and black during war</li>
+<li>Horrific childhood - kidnap, death, killed his half brother</li>
+<li>Genghis took over more land than Ancient Rome in just 25 years (Romans took 400 years). Larger land mass than all of North America </li>
+<li>13th century</li>
+<li>In Russia, he consolidated dozens of Slavic states into one. Helped establish foundations+borders of China, India and more</li>
+<li>Established solid foundations and rules that meant his empire lasted for 150 years after his death. Died still in power at nearly 70 years old</li>
+<li>Buried with no monument (sprit lives in the banner)</li>
+<li>Capital of Mongol Empire (UlaanBaatar)</li>
+<li>His burial ground was known as Great Taboo </li>
+<li>Building of bridges was central to his conquest and connecting his lands, which stimulated trade</li>
+<li>While western Europe never become a part of empire, they benefited from trade and impacted their culture. Even “Hurray” was a Mongolian cry during battle</li>
+<li>Genghis refused portraits, sculptures etc. and all paintings were made 50 years after his death (each culture imprinted their looks into the paintings)</li>
+<li>19th century European scientists classified asians and natives as mongoloid -&gt to be associated with Mongol, which they associated with barbaric and antithesis to civilized</li>
+<li>When extremely wealthy showed a “barbaric love of money” they were described as moguls -&gt Persian word for mongol </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Khan grew up in wooded marshland area and not open plain lands like you’d associate with nomads</li>
+<li>Unified Mongol tribes in 1206</li>
+<li>Waited for the coldest months of the year to perform desert crossing - so they could carry less water and travel light. Also grass grew in the season so more grass for grazing</li>
+<li>Instead of carrying siege weapons, had an engineering corps</li>
+<li>Khan used siege weapons including catapults which shot exploding liquid and giant crossbows on wheels</li>
+<li>From 1220 to 1920, Bukhara was reigned by the Khan family</li>
+<li>Steppe - flat planes which Mongols occupied especially when there was grass to graze on. Steppes served as “highways” to Asia </li>
+<li>Khan was born in 1162 - the year of the horse</li>
+<li>Smell is important in Steppe culture (sniff each other as if a kiss on a cheek) and each person’s smell has a connection to their soul</li>
+<li>Khan’s mother was kidnapped by Mongolians (who didn’t live in Steppe/plains but North where plains met wooded mountains. They were also scavengers) </li>
+<li>Mongols usually hunted and found resources in woodland forest - but in harsher times in winter would attack/raid people in the steppe</li>
+<li>Temujin (birth name of Khan. Khan = leader or king). Named after a warrior his father killed (his father kidnapped his mother)</li>
+<li>His father got poisoned by enemy tribe, and his mother and family, were effectively cut off and had to survive on their own. Father never seemed to really care for him</li>
+<li>Thanks to his mother’s commitment they barley survived scavenging whatever food they could</li>
+<li>This experience cemented in Temujin: defied strict caste system and surrounding himself with people he trusted vs just family/fellow tribesman</li>
+<li>Usually by age 4, mongols learned how to ride horse bear back </li>
+<li>Children also played with knuckle bones made from sheep - kind of like dice, used to make decisions, play games etc.</li>
+<li>Jamuka - early childhood friend / distant relative who played with Temujin, traded toys, bonded in brotherhood. Became anda- brothers by choice </li>
+<li>Begter - older half brother. Hated each other and Begter would have a claim to marry Temujin’s mother (common for older women to marry younger men). Temujin murdered Begter. Mother was extremely angry</li>
+<li>For performing taboo he was hunted and eventually captured. Some records suggest Temujin was a prisoner for several years. Further cemented his hatred for cast system and judged people by their actions - like the poor people unrelated to him that helped him during tough times </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Borte - Temujin’s wife he was first set to marry in childhood</li>
+<li>Steppe was largely dominated by 3 khans who had multiple tribes under their helm. Org Khan, adas of Temujin’s father, was lead Christian and leader of one the major 3 powers. Granted Temujin protection as a “stepson” after giving him Borte’s prizes gift. Managed to develop an intimate clan</li>
+<li>Old clan (Merkid) still sought retribution for his stepbrother’s murder and for his mother’s escape - they wanted Borte </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li
+
+---
+
+<div><h1>The charisma myth (on hold)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Charisma is a skill you can learn and practice</li>
+<li>Charismatic people aren’t always charismatic. It’s something that you turn on and off </li>
+<li>When we meet a charismatic person, we assume they like you lot and have a lot of power. Project high power and high warmth </li>
+<li>Presence is another factor - feeling like the person is present with you</li>
+<li>Charisma isn’t about being “buoyant”. You can be an introverted charismatic person</li>
+<li>Pause before you speak and reduce your amount of nodding</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Presence is about moment to moment awareness and not being caught up in your own thoughts. It’s about making them feel like they’re the most important person in the world </li>
+<li>Be present in the conversation and not in what you’re going to say next. Use your breath or “feeling in toes” to anchor you. This also shows in your body language </li>
+<li>Strength is the ability affect the world around us (often interpreted through body language) </li>
+<li>Warmth is to apply goodwill towards people and have a positive impact on others </li>
+<li>Body language is used as a shortcut to assess people and it’s how warmth and power are absorbed by most people. People will assume what you project </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>A genuine smile invokes the eyes. A fake one is only the mouth </li>
+<li>There is internal and external charisma. Must focus on the former first</li>
+<li>Nocebo effect is like placebo effect but on the negative. Placebo originates from WW1 when doctors didn’t have sufficient medical supplies but “pretended” to treat patient and it helped </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Your physical state can impact your body language, which has people interpret your charism. Therefore take steps to:</li>
+<li>Be prepared about your location, state, situation to avoid physical discomfort in advance </li>
+<li>Awareness: “check in with your face”</li>
+<li>Take action if you notice it occurring before someone can misinterpret it. Don’t ignore it! E.g. if sun is in your eyes out your hand up and so say</li>
+<li>Our inability to handle uncertain circumstances has multiple costs</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Responsibility transfer: take a deep breath and imagine some other entity now has your “responsibility” transferred to them and outcome of the uncertain situation is positive</li>
+<li>It’s not changing the situation but using placebo to make you feel better</li>
+<li>Comparing hurts our ability to be present and therefore impacts our charisma </li>
+<li>Self criticism triggers reaction focussed on survival (of next 10 minutes vs what’s needed for lifetime and cuts off intelligence)</li>
+<li>Up to 70% of people have experienced imposter syndrome. Knowing that alone should help</li>
+<li>Root of anxiety and negativity are to make you feel uncomfortable to spur action/change </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Handing situations (chapter 4) involves 3 steps: destigmatize discomfort, neutralize negativity, rewrite reality </li>
+<li>Destigmatize discomfort: understanding the “uncomfortable” is normal and therefore reading its power over you. Think of others you admire who’ve gone through the same thing</li>
+<li>Zoom out and put yourself (and your problems) into the perspective of something bigger. E.g. a bunch of atoms in the universe </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Neutralizing: if someone seems off / not receptive, assume it may be some internal discomfort from them and is unrelated to you. Our brain only gives us a distorted / filtered view of reality based on its limited ability to focus consciousness on what it perceives is most important </li>
+<li>When your mind spins negative scenarios, remind yourself that it’s not likely an accurate picture of things and has negativity bias</li>
+<li>Your thoughts aren’t necessarily valid </li>
+<li>See negative thoughts as graffiti on a wall you can observe or walk by but they don’t define you </li>
+<li>Assign a label to your experience. That alone can lessen its power </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Rewrite reality: change perception/context of the situation is more effective than trying to suppress or ignore emotions </li>
+<li>Even writing it down can help</li>
+<li>Interpret everything positively </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Being uncomfortable with discomfort </li>
+<li>Being aware and okay with discomfort helps with presence and therefore charisma. Be aware and “diagnose” the physical sensations </li>
+<li>Start a conversation with a stranger </li>
+<li>Need to tackle internal discomfort to enable presence, strength, and warmth - three cornerstones of charisma</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Visualization can alter the brain’s chemistry. What can I visualize in advance (really be cognizant)<
+
+---
+
+<div><h1>Unruly (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Wehrmacht- term for German ground forces during ww2</li>
+<li>King Arthur was never real. Accounts were from books written in 12 and 15th century. The book - death of Arthur in 1485 - was in the first books to be printed in England. The period of the book explains why Arthur - 5th and 6th century - looks like a medieval king in most imagery.</li>
+<li>Albion- old name for Britain. England / Britain wasn’t a thing in King Arthur time either </li>
+<li>William conquered in 1066 won battle of Hastings and became King of England</li>
+<li>Norman Conquest - marked the begging of true “English” history. Before William the Conquerer there was Edward the Confessor (who was made a saint)</li>
+<li>Anglo-Saxon - broad umbrella term for tribes from Germany and Denmark who arrived in Britain after Romans left in 410 (Roman occupied from year 43) and eventually merged with established British Romans</li>
+<li>Brittonic - ancient Briton language </li>
+<li>Vortigern (means king in Brittonic) and was early king in post Roman Britain in 5th century though his existence is debated. Vertigern employs Hengist and Hora for protection. Hengist and Hora turn on Vortigern and establish first kingdoms in England</li>
+<li>Dark Ages - two to three hundred years after collapse of Roman Empire (5 to 6 century) when little was chronicled and situation was dire with everything in decline and widespread poverty (including volcanic explosions from Iceland that impacted crops and blocked the sun)</li>
+<li>Brittonic language (spoke during Roman) versus Anglo Saxon language weren’t similar -</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>King Ceowolf of Northumbria (seventh and eight centuries). When documentation comes in (thanks to monk Bede) and dark ages start to come to end</li>
+<li>Christianity was what gave life purpose for Monk Bede and many at the time (made brutal life bearable and have meaning)</li>
+<li>Romans became Christian in 313 - from Roman emperor Constantin. However invading Anglo Saxon were pagan </li>
+<li>Names of the week derived from these pagan gods (wise god Woden - Wednesday, Thunor - Thursday. Goddess Frig is for Friday. Tiw- god of war for Tuesday. Sunday and Monday after sun and Saturday is after Saturn/Cronos </li>
+<li>First rulers kings emerges from brutish conditions (people who managed to use force and power to establish systems of protection and racketeering) and later sense of righteous to rule was applied retrospectively. Some sense of regal power was used to justify their position (elevators building and burials etc). Effectively use kingship to dignify their desire to amass wealth and power</li>
+<li>Bretwalda- old English word for British ruler </li>
+<li>It was enough to give people basic protection to deem worthy of kingship. The term Lord derives from old English term “hlaford” or bread giver</li>
+</ul>
+<div><br></div>
+<ul>
+<li> </li>
+<li>Christianity was largely spread in England by Augustine, now referred to as St Augustine of Canterbury </li>
+<li>St Augustine was sent by pope to convert Anglo Saxons and the king of Kent Aethelberht had a Christian wife . Aethelbertht was first Anglo Saxon king to convert</li>
+<li>Celtic Church in Ireland had some deviances from Roman Catholic Church due to their absence (monies tonsure hair, different ways of calculating Easter Day)</li>
+<li>Took almost a century for Anglo Saxon to become dominantly Christian (as competing kings fought to be bretwalda) </li>
+<li>After initial spread of Christianity, subsequent kings were for creating (and used Christianity to justify their position). They spread the message that they were anointed and had the divine right to rule</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Many of the original Britons from collapsing Roman Empire (retreating from incoming Germanic region) moved west to Cornwall and even wales. Wales derives from Germanic “Anglo Saxon term “walas” which means foreigner. Welsh term for Wales is cymru (which was a Brittonic term which means fellow countrymen)</li>
+<li>King Offa of Mercia (Mercia was one of the most powerful kingdoms) </li>
+<li>At the time of anglo Saxon roughly 7 major kingdoms (though this was simplified): Kent, Wessex, Sussex, East Anglia, Essex, Mercia, Northumbria </li>
+<li>King Offa of Mercia effectively came to all kingdoms except for Northumberland </li>
+<li>Londinium (London) original Roman capitol. Was abandoned for nearly 200 years (many former residents moved to Wales or died etc.) </li>
+<li>Near original Londinium there was Londonwic (wic = trading settlement) which was growing due to its ideal location as a port town </li>
+<li> Reoccupation started St. Augustine</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Viking invasion began in 793 just off the Northumbria coast (Lindinsfarne). 793 to 1066 was the era of the Vikings.</li>
+<li>Vikings weren’t called Vikings at the time but  but Norseman or Danes </li>
+<li
+
+---
+
+<div><h1>Arabs (not finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Abu Sufyan - clan chief of Quraysh in Mecca and was Mohammad’s cousin</li>
+<li>Yathrib in Saudi was first name of Madina (Madina being Madinat Rasul Allah)</li>
+<li>Abu Sufyan’s son will eventually go to war with Ali </li>
+<li>To allow for unification for fractured Arab states, there was a unified subjugation to one god</li>
+<li>Arabic - used by Mohammad - also key unifying identify amongst fragmented people. Likely borne from nomadic trade and travel over long distances which required some unifying form of language  </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Islam (and Arabic language) great unifier also had an ironic effect and leading to lack of central Arab national strength . E.g. how Turks took on the mantel of Islam’s empire </li>
+<li>Stretch of Islam also went too wide to have central power like Europeans </li>
+<li>Adonis - Syrian poet and essayist </li>
+<li>Even as far back as 9th century, Persians rejected Arab elitism in Islam</li>
+<li>English word for politics stems from “polis = city”. Arabic word for politics “Siyqsah” ties its origins to the words for herding of horses and camels”</li>
+<li>Dry land pushed people out of peninsula into the north towards Fertile Crescent </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Arabic was borne from poetic language </li>
+<li>Arab Peninsula was historically wetter from 8000 to 4000 BC (there was water holes and hippopotamus etc)</li>
+<li>Arabia is dry (with few exceptions) a big reason behind why it wasn’t historically a population centre like Europe or India. As low as 10 million</li>
+<li>Arab peninsula broken up into three areas: 1. rocky (Petra = rock) in north west, 2. Arabia Felix to the south, and 3. Arabia desert </li>
+<li>Competition over resources means social instability - there’s the duality of Fertile Crescent versus nomadic desert </li>
+<li>Ad - ancient prismatic almost mythical tribe in Arabia / extinct Arabs. Thamud - another ancient tribe who interacted with the Romans</li>
+<li>People of the crescent (Assyrian) viewed themselves as separate from Arabs. Assyrian vs Gindibu and means cricket/locusts</li>
+<li>To the south there were pre Islamic kingdoms of Sana and Sheba - historically distinct from Arab but gradually Arabized largely through language  </li>
+<li>Spread of Arab identity took longer to spread in North Fertile Crescent </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Nabataen - script precursor to Arabic script </li>
+<li>Why Arab nomads wrote isn’t clear but likely due to the vast emptiness gave them some purpose / enjoyment </li>
+<li>Ip</li>
+</ul>
+<div><br></div>
+<div><br></div>
+
+
+---
+
+<div><h1>The obstacle is the way (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Marcus Aurelius - 170, AD. Last of the five great Roman emperors</li>
+<li>Wrote about principles to live by, including embracing adversity </li>
+<li>Rare few take adversity with stride, much less embrace it, turn it on its head, and know they’re the better for it. Obstacles can be opportunities that carve a path and become part of your journey</li>
+</ul>
+<div><br></div>
+<ul>
+<li> </li>
+<li>Overcoming is a 3 step process: </li>
+<li>1. Perception: How we look at problems/attitude/approach. See them as they are without fear, emotion, or subjectivity </li>
+<li>2. Action: Energy and creativity to break them down, and turn them in their head</li>
+<li>3. Will: Inner will to handle defeat and difficulty </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Rockerfeller, a wonder by father who was a criminal. Adversity of the financial crisis of 1857 built self discipline. He saw the crisis as an opportunity to learn and build grit etc.</li>
+<li>Obstacles fair/unfair will happen, what matters is how you perceive them and how you maintain composure. Don’t let unhelpful perceptions invade our mind, will, and rationale</li>
+<li>It’s not about “x makes feel this way - we choose how we feel and how we can make these adversities into opportunity</li>
+<li>Avoid being a slave to impulses and instinct of primal beings that are no longer relevant to modern man</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Be objective</li>
+<li>Control emotion</li>
+<li>Be optimist</li>
+<li>Have steady nerves </li>
+<li>See what others ignore</li>
+<li>Put things in perspective </li>
+<li>Focus on the moment</li>
+<li>Focus on what can be controlled</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>“Hurricane” Carter - didn’t even asked for an apology from the court after being falsely imprisoned - because he didn’t even see himself as a prisoner. He refused to believe the situation was hopeless</li>
+<li>He left prison a stronger, smarter man (he read, built his resistance etc). If prison and unjust sentencing) can be transformative, anything can</li>
+<li>An obstacle can be an obstacle if that’s how we tell the story to ourselves (nothing is good or bad, it’s how we perceive it)</li>
+<li>E.g. employee makes a mistake. Do you get angry or appreciate it’s an opportunity for employee to learn and be better with unique real world experience </li>
+<li>We don’t have to let others or mind tell us something, we choose the story to tell. That is perception </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>The risk of being overwhelmed is always there</li>
+<li>When people panic - they deviate from the plan and just react based on survival hormones. Some even prefer to panic/react because it’s easier than dealing with reality in a conscious manner</li>
+<li>Apatheia - Greek term, calmness without extreme emotion or irrationality. Not being loss of feeling, but avoidance of harmful ones. Don’t let negativity in</li>
+<li>Getting upset doesn’t provide you with more options</li>
+<li>Feel emotions -but don’t conflate reacting to a problem the same as dealing with it</li>
+<li>“Will this kill me” - good question to ask to out things in perspective </li>
+<li>Exercise of seeing things how they really are by removing embellishments and grounding them (e.g. roasted meat = dead animal). Can do this for anything or anyone in our way, critics, and naysayers. Frame things as they really are not as we “see” them in our mind / society </li>
+<li>We find it easy to give friends advice being we see their problems objectively with no emotions, while we don’t the same for ourselves because we’re in our own emotional lens  </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Take what you fear and break it down. Explain it away. We can’t change an obstacle, but we can change our reaction to them using perspective, and as a result, our ability to overcome it (e.g. Marcus would describe wine as old grapes, or fine mean as dead animal)</li>
+<li>Our perspective may actually be causing the problem. Important to contextualize a problem in the grand scheme “business opportunity is like a bus. There’s always another around the corner” - Richard Branson</li>
+<li>Tommy John athlete - focus on what you can control (fair game in the field) and what you can’t (rules of the game, weather, etc.). </li>
+<li>Focusing energy exclusively what’s in our power gives us more power. Energy spent on what we can’t control is energy wasted </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Half the companies of the Fortune 500 were founded during bear market or recession - business leading focussing on the “now”</li>
+<li>Take things day by day</li>
+<li>Think of malleable - it’s not about delusion. It’s about avoid compromise or limited way of thinking</li>
+<li>What we focus more on the obstacle than the goal - the obstacle wins</li>
+<li>When given an “unfair” task - it can be a chance to test what they’re made of vs 
+
+---
+
+<div><h1>Poverty in America (not finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Almost one in nine Americans live in poverty (more than the population of Australia). One in 18 lives in deep poverty (half the poverty line)</li>
+<li>Over one million public school children are homeless </li>
+<li>Over two million Americans don’t have running water or flushing toilets at home </li>
+<li>Poverty line - when over a third of your household income is spent on food necessitates </li>
+<li>Up to 40% of inmates saw murder as a child (sample in Massachusetts)</li>
+<li>Income volatility - the extent to which incomes fluctuate month to month - has doubled since the 70’s</li>
+<li>Almost seven in ten black men who didn’t finish high school will spend sometime in prison </li>
+<li>Children in a neighbourhood which experienced a shooting perform worse on cognitive tests following days (can see the perpetual effects)</li>
+<li>Huge gap in median net worth household of black household versus white household</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Proportion of Americans living in poverty remains consistently the same through the decades. Standards of living increase across the board but poverty hasn’t (e.g. access to stable housing, medication etc. still prolonged issue). In fact critical things like housing and increased while consumer goods have fallen</li>
+<li>Not just neoliberal as many government relief programs have increased funding per person</li>
+<li>Changes to welfare program meant access to cash directly given to the poor now siphoned off into different areas - not directly given to the poor and often siphoned off by random events (paid salaries of evangelical singers) states also aren’t required to spend welfare funds and there’s up to $6 billion in welfare funds carried over </li>
+<li>Undocumented workers peaked years ago and employers respond not by hiring local but relying on greater automation</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Single mother household outside of America aren’t poorer significantly on average than the population</li>
+<li>Marriage is often a consequence of financial stability (Milwaukee program where people received financial support for healthcare etc. and an on average twice as likely to be married)</li>
+<li>There is the prison system that breaks up families and then there’s the fact some programs offer greater relief for individuals versus as a married household </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Systemic issues exist because they inherently benefit some </li>
+<li>Just because desperate people are prone to exploitative conditions doesn’t make the conditions they endure any more exploitive </li>
+<li>Stigler’s theory on minimum wage based not on fact but hypotheticals. Multiple studies that show it does not decrease employment </li>
+<li>Between 1950s-70s and third of union workers carried union cards. In 1970s decline of union, racist exclusionary unions, and political momentum was against unions</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Germany has fewer working professionals who graduated college compared to America but don’t have the same poverty rate</li>
+<li>Of the 750,000 Apple employees, only 65,000 are employed directly by Apple</li>
+<li>Temp agencies remove the equalizing salary/pay standards applied to other employees and push for the lowest cost possible</li>
+<li>No compete clause makes it harder for employees to move </li>
+<li>Us chamber of commerce - largest lobbying force in America in terms of sheer dollar spent</li>
+<li>Many of the largest corporations including US Chamber of Commerce have pushed for expansion of the Earned Income Tax Credit because it subsidies their under paid employees </li>
+<li>Walmarts worst single day in record was in 2015 when it announced it would increase minimum wage to $9 per hour</li>
+<li>Richest 10% of families own 80% of stock</li>
+<li>When minimum wage goes up, alcohol consumption, teen births go down. Economic security leads to better choices</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Today, only 5 percent of banks don’t charge minimum bank fees (1/3rd in 1970s)</li>
+<li>Just 9% of population pay over 84% of overdraft fees</li>
+<li>Over 40 percent of users who use buy now pay later have missed a payment </li>
+<li>Credit check required for jobs drives a cycle </li>
+<li>Four in five payday loans roll over their billing cycle </li>
+<li>Poverty is about the lack of choice </li>
+<li>After the several states cut off funding what happened - the five most “successful” states in terms of job growth were those which retained the benefits. States which cut benefits didn’t see rebound with employment. Maybe people didn’t want to return because they didn’t want to get sick and die, or they were lousy places to work with subpar pay</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Lot of arguments against government aid is often based on anecdotes. US bureau of labour statistics found those in the 
+
+---
+
+<div><h1>The hundred’s year war on Palestine (finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Theodor Herzl is the founder of modern Zionism - from Austria Hungry (was a journalist and activist who wrote a pamphlet about having a Jewish state with a sovereign right to control immigration called Der Jundenstaat. Stated people needed to be “spirited away”</li>
+<li>First early European zionists entered Palestine from the 1870s</li>
+<li>Core principle of Zionism from Theoder Herzl was that local population would be dispersed to other parts of the Ottoman Empire</li>
+<li>British Mandate Authority - began dismantling of indigenous Palestinians </li>
+<li>Beginning of segregation with exclusion of Arab labour from Jewish owned business under slogan of “Avoda irvit” (Jewish labour). By 1930’s Jewish economy became majority of local economy, largely due to external investment</li>
+<li>1936-39 revolt of Palestinians against British rule (14 percent of population was exiled or killed)</li>
+<li>Agenda of Zionism of Jews returning to their homeland resonated with Protestants in England and Western Europe</li>
+<li>Herzl even said of Israel it would “form a part of a wall of defence of Europe in Asia. An outpouring of of civilization against barbarism”</li>
+<li>Push of narrative as Palestine as empty, barren, and backward with a population of nomadic Arabs. Idea of “a land without people for a people without a land”</li>
+<li>1917 Balfour Declaration - issued by British government- never even mentioned the local Palestine Arab population </li>
+<li>Even politicians like Huckabee said “There’s no such thing as Palestinians”</li>
+<li>Jewish Colonization Association- founded by Jewish philanthropist to provide massive funds to purchase land in Palestine</li>
+<li>Project was always seen as colonialist but narrative was changed. Ironic considering Israel was born out of imperialism and British colonialism </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>There was an Arab population which identified with Palestine (and its cities) and the grander Ottoman Empire and were facing some force of progress </li>
+<li>Ottoman Empire was dissolving, leading to famine and huge amount of people losses in world war 1 (3 million people)</li>
+<li>Balfour deceleration by Arther James Balfour - supported Theodore’s original goals of statehood for Jews. Balfour does not mention Arabs or Palestinians or their governmental or state rights </li>
+<li>Balfour agreement was done for mix of reasons: but big one was strategic. E.g. propagandist play to gain sympathy of Jews in America and Russians, improve British influence in region and Suez Canal</li>
+<li>Between 1909 and 1914, around 40,000 Jews began to immigrate to Palestine purchasing land often from absentee landowners</li>
+<li>Notion of Palestinian nationalism increased following world one as national self determination increased globally</li>
+<li>Local newspapers pushed idea of nationalism against European zionism</li>
+<li>Palestinian identity emerged same time as Zionism and was sparked for multiple reasons (Zionism wasn’t spurred on by just antisemitism, and neither did Palestinian nation identity to Zionism)</li>
+<li>Arabs began to petition collectively with nation interest to rule as majority - putting forward petitions to League of Nations etc. </li>
+<li>There were riots and people (especially low and middle class) began to resist forming militias </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Chain Weizmann - first Israeli president </li>
+<li>Countries were seeking to become a newfound state (e.g. Syria in 1918) but we’re quickly suppressed </li>
+<li>Amir Faisal (son of Shirifian Caliph, a founding father of “pan-Arabism)</li>
+<li>British mandate for Palestine was a political cleansing of local Arab population - goal of denying their historical connection to the land. Arabs and Palestine weren’t even mentioned </li>
+<li>Article 7 of Mandate - Jews were given Palestinian citizenship but wasn’t granted to Palestinians returning from America after emigrating from Ottoman Empire (Jews could always get citizenship but not Palestinians who were abroad during British takeover) </li>
+<li>Balfour helped write 1905 Alien Act designed to keep out destitute Jews from Russia out of England</li>
+<li>Herzl and Balfour - both argue Zionism but both knowingly partake in bad faith arguments about the consequences and deceit (Balfour acknowledge was mixed messaging around the notion of independence)</li>
+<li>Between 1926 and 1932, Jewish population in Palestine stagnated (partly tied to depression as inflow of capital slowed). This changed during ww2</li>
+<li>Palestinian resistance grew - elites were reluctant to push too aggressively against British rule</li>
+<li>In response to Palestinian unrest, British issued white papers but none lead to any tangible change </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Frustration led massive grass roots movement and violent resistance </li>
+<li>Fir
+
+---
+
+<div><h1>An autobiography of the Milky Way (not finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Milky Way has over 100 billion stars and is over over 13 billion years old</li>
+<li>Thermodynamics - a branch of physics that deals with the relationship between heat and other forms of energy. The second law of thermodynamics is entropy of a closed system always increases (entropy is measure of disorder in the universe)</li>
+<li>9 billion years ago, Milky Way slowed down its star production due to decrease in star forming gas</li>
+<li>Different stories of Milky Way - Armenia god wanted to stay warm and went to Assyria to pick up stew to burn but dropped it forming Milky Way, in South Africa girl was stuck in the dark looking for food so she threw embers from her fire to form the sky.  </li>
+<li>Big bang occurred around 13.8 billion years ago. Before big bang all the energy and matter was in a tiny space before it spread out. </li>
+<li>Temperature in space refers to how fast all the particles move. Universe after big bang cooled to one billion kelvin, which was cool enough for protons and neutrons to combine in simple groups and form atomic nuclei. Still too hot for electrons to bond and create atoms, and took thousands of years for universe to cool electron to join and form neutral atoms. Those first items were hydrogen and some lithium</li>
+<li>Took almost 200,000 years for investor to become invisible (before was opaque because photons of light were bouncing off free electronics</li>
+<li>The initial hot energy from the Big Bang is still present but just dispersed (cosmic microwave background for CMB)</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Electromagnetic spectrum is the range of possible wavelengths for light </li>
+<li>Heat usually shows up as infrared light, but the universe expanded so much it expanded the heat out of infrared region of electromagnetic spectrum into the microwave </li>
+<li>After first three hundred million years after first atoms were created to create the first stars </li>
+<li>Universe’s store of hydrogen, helium and lithium existed as clouds of gas. When the equilibrium in these gas clouds became uneven gravity began to take hold and form stars as gravity drew in more mass and caused it to collapse on itself, creating heat </li>
+<li>First generation of stars formed nitrogen, carbon etc. in their cores which was spread and early stars exploded (few population 3 stars from beginning of universe still exist)</li>
+<li>Formation of stars (gravity, heat, exploding stars etc.) formed small initial galaxies which became bigger after consuming each other </li>
+<li>Some dwarf galaxies are born as a consequence of two larger galaxies merging </li>
+<li>Determined age of milky way galaxy by looking at the age of its oldest stars (included using models of how hot/cold star is as most follow a similar lifecycle). Another way is by modelling the axis and speed of its rotation (gyrochronology). Other methods include measuring how stars pulse, the amount of lithium, their orbits etc. </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Indian god believe Brahma created the universe. Vishnu the preserver who maintains balance (Vishnu associated with the sun). Shiva, destroys the universe so it can be rebuilt (considered both good and evil). Brahma, Shiva, and Vishnu form the triumvirate </li>
+<li>Eddas - old Norse poems. World formed from two worlds: muspelheim (fire) and nilfheim (ice). Where the two met formed Ymir, the first great giant who was later mutilated and whose body parts formed the world. Hinduism is oldest still practiced religion 4,500 year ago</li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Local Group - galaxies around the Milk Way. About ten million light years wide. Two most prominent galaxies in Local Group are andromeda and Milky Way. Most galaxies in  Local Group are 1% Milky Way’s size</li>
+<li>Sagittarius is a dwarf galaxy before it was absorbed into Milky Way. Sagittarius stream - its stars spread across the Milky Way</li>
+<li>Triangulum - third largest galaxy in the Local Group</li>
+<li>Small and Large Magellanic Cloud - two galaxies close to Milky Way visible from southern hemisphere. Given name after explorer Magellan saw them while exploring the seas</li>
+<li>Parallax method - measuring how far the distance a star in the sky moved as the position of the earth orbits. E.g. measuring distance of your thumb opening one eye versus the other </li>
+<li>Parsec is a unit of measurement - paralex angle of one second. One parsec is 3 light years </li>
+<li>Standard candles - way to measure distance following patterns of stars which light, dimmed and exploded in regular pattern. Create predictable patterns of luminosity </li>
+<li>Also created 3d map survey </li>
+<li>Type 1a supernova explosion caused by the merger of materials from two stars verging closer together. One of the stars need to be a white dwarf (form from stars after they completed depleting their hydrogen
+
+---
+
+<div><h1>Whole brain child (not finished)</h1></div>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>The qualities you want for your child - happy+  independent + successful - but how much of your time are you putting into fostering those qualities?</li>
+<li>The “just survive movements” (shouting at kids having a tantrum) are the opportunities to become thrive.</li>
+<li>The “thrive” and “survive” moments aren’t isolated and separate.</li>
+<li>E.g. when your child is fighting with their sibling, easy to shout at them and separate. But can be an important moment to foster for sympathy, empathy, listening, and connecting with your child. </li>
+<li>Survive moments can become survive moments to develop child’s relationships, social skills, and understanding </li>
+<li>There isn’t the need to carve out rare, special and “perfect” idealized time for fostering “thrive” (e.g. fishing trip with the kid). It can happen whenever and everyday and will help your children become strong, independent, and “thrive”</li>
+<li>Rather than shield children from the sad and hard experiences, teach them to leverage these as key lessons etc. </li>
+</ul>
+<div><br></div>
+<ul>
+<li><br></li>
+<li>Scenario: 2 year old child was in car accident. Easy to attempt to distract (e.g. ice cream BUT this doesn’t let them emotionally process). What parent did instead was help the child retell the story (even in their baby words) </li>
+<li><br></li>
+</ul>
+
+
+---
